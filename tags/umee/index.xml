@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>umee on Merak.run</title>
+    <link>https://merak.run/tags/umee/</link>
+    <description>Recent content in umee on Merak.run</description>
+    <image>
+      <url>https://merak.run/merak.svg</url>
+      <link>https://merak.run/merak.svg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 07 Oct 2021 22:29:12 +0000</lastBuildDate><atom:link href="https://merak.run/tags/umee/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blockchain Validator</title>
+      <link>https://merak.run/validator/</link>
+      <pubDate>Thu, 07 Oct 2021 22:29:12 +0000</pubDate>
+      
+      <guid>https://merak.run/validator/</guid>
+      <description>Merak is a chain Validator on the following projects:
+Mainnet Status Validator details Stake Description of project Mainnet Merak on Nym Nym : Infrastructure to prevent leaks on data and metadata Mainnet Merak on Sifchain Via Keplr Sifchain : Crosschain DEX based on Cosmos Mainnet Merak on Umee Via Keplr Umee is a cross-chain DeFi Hub for Cosmos and Ethereum Testnets Status Validator details Stake Description of project Testnet Merak on Axelar Via Keplr Axelar : Unlocking cross-chain communication No longer participating Project Status Kira Testnet Evmos Mainnet (Genesis) Comdex Mainnet (Genesis) Pontem Testnet </description>
+    </item>
+    
+    <item>
+      <title>Umee Validator</title>
+      <link>https://merak.run/umee/</link>
+      <pubDate>Mon, 04 Mar 2019 18:34:14 +0100</pubDate>
+      
+      <guid>https://merak.run/umee/</guid>
+      <description>Visit at https://www.mintscan.io/umee/validators/umeevaloper1qlmtpavyu3ugctqmvr9kl73cgzq5ehdffynf4c.</description>
+    </item>
+    
+  </channel>
+</rss>

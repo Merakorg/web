@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Blog on Merak.run</title>
+    <link>https://merak.run/blog/</link>
+    <description>Recent content in Blog on Merak.run</description>
+    <image>
+      <url>https://merak.run/merak.svg</url>
+      <link>https://merak.run/merak.svg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 13 Apr 2022 22:01:23 +0000</lastBuildDate><atom:link href="https://merak.run/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Swap places</title>
+      <link>https://merak.run/blog/swaps/</link>
+      <pubDate>Fri, 19 Nov 2021 00:37:20 +0000</pubDate>
+      
+      <guid>https://merak.run/blog/swaps/</guid>
+      <description>Sometimes we want to exchange tokens between them, and many times the easiest way is to use a Swap page.
+Those pages connect to your wallet, like Metamask, and ask for approval for interacting with your tokens.
+With those interactions will allow you to select the tokens to use as source (funds) and target from a list, or via their contract so that you can exchange them.
+Network URL BSC https://pancakeswap.</description>
+    </item>
+    
+    <item>
+      <title>Token Approval URLs</title>
+      <link>https://merak.run/blog/tokenapprovals/</link>
+      <pubDate>Thu, 11 Nov 2021 22:29:12 +0000</pubDate>
+      
+      <guid>https://merak.run/blog/tokenapprovals/</guid>
+      <description>When a wallet interacts, for example, Metamask, it might require approvals for interaction with the wallet.
+Sometimes, those contracts might be fraudulent or malicious and, you forget about them when time passes but still have access to your funds.
+You can check the current approved ones via the following sites, depending on the network you&amp;rsquo;re using on your wallet:
+Ethereum https://approved.zone/ https://tac.dappstar.io/ https://revoke.cash/ https://app.unrekt.net/ https://debank.com https://etherscan.io/tokenapprovalchecker Polygon https://polygonscan.com/tokenapprovalchecker Binance Smart Chain https://bscscan.</description>
+    </item>
+    
+    <item>
+      <title>Blockchain Validator</title>
+      <link>https://merak.run/validator/</link>
+      <pubDate>Thu, 07 Oct 2021 22:29:12 +0000</pubDate>
+      
+      <guid>https://merak.run/validator/</guid>
+      <description>Merak is a chain Validator on the following projects:
+Mainnet Status Validator details Stake Description of project Mainnet Merak on Nym Nym : Infrastructure to prevent leaks on data and metadata Mainnet Merak on Sifchain Via Keplr Sifchain : Crosschain DEX based on Cosmos Mainnet Merak on Umee Via Keplr Umee is a cross-chain DeFi Hub for Cosmos and Ethereum Testnets Status Validator details Stake Description of project Testnet Merak on Axelar Via Keplr Axelar : Unlocking cross-chain communication No longer participating Project Status Kira Testnet Evmos Mainnet (Genesis) Comdex Mainnet (Genesis) Pontem Testnet </description>
+    </item>
+    
+    <item>
+      <title>Dictionary</title>
+      <link>https://merak.run/blog/dictionary/</link>
+      <pubDate>Sat, 22 May 2021 13:29:12 +0000</pubDate>
+      
+      <guid>https://merak.run/blog/dictionary/</guid>
+      <description>We&amp;rsquo;ve just started writing a dictionary of crypto terms and links to make your path into understanding cryptocurrencies a bit easier.
+Check it out at Terms</description>
+    </item>
+    
+    <item>
+      <title>Axelar Validator</title>
+      <link>https://merak.run/axelar/</link>
+      <pubDate>Mon, 04 Mar 2019 18:34:14 +0100</pubDate>
+      
+      <guid>https://merak.run/axelar/</guid>
+      <description>Visit at https://testnet.axelarscan.io/validator/axelarvaloper1k7c3pf0r0tvvskkevvuhdsus35qhlsg7yyn362.</description>
+    </item>
+    
+    <item>
+      <title>Comdex Validator</title>
+      <link>https://merak.run/comdex/</link>
+      <pubDate>Mon, 04 Mar 2019 18:34:14 +0100</pubDate>
+      
+      <guid>https://merak.run/comdex/</guid>
+      <description>Visit at https://www.mintscan.io/comdex/validators/comdexvaloper1v5rs530z584002frflrk3fc43sf8hmjt3zkz64.</description>
+    </item>
+    
+    <item>
+      <title>Evmos Validator</title>
+      <link>https://merak.run/evmos/</link>
+      <pubDate>Mon, 04 Mar 2019 18:34:14 +0100</pubDate>
+      
+      <guid>https://merak.run/evmos/</guid>
+      <description>Visit at https://www.mintscan.io/evmos/validators/evmosvaloper1k35wzk4slyz2ly9wycjqjs5ed7mwjl2y7msgdz.</description>
+    </item>
+    
+    <item>
+      <title>Evmos Validator</title>
+      <link>https://merak.run/evmos/</link>
+      <pubDate>Mon, 04 Mar 2019 18:34:14 +0100</pubDate>
+      
+      <guid>https://merak.run/evmos/</guid>
+      <description>Visit at https://www.mintscan.io/evmos/validators/evmosvaloper1k35wzk4slyz2ly9wycjqjs5ed7mwjl2y7msgdz.</description>
+    </item>
+    
+    <item>
+      <title>Nym Validator</title>
+      <link>https://merak.run/nym/</link>
+      <pubDate>Mon, 04 Mar 2019 18:34:14 +0100</pubDate>
+      
+      <guid>https://merak.run/nym/</guid>
+      <description>Visit at https://nym.explorers.guru/validator/nvaloper18mgnd9k6rytn6tz7pf8d2d4dawl7e9crunrsxd.</description>
+    </item>
+    
+    <item>
+      <title>Sifchain Validator</title>
+      <link>https://merak.run/sifchain/</link>
+      <pubDate>Mon, 04 Mar 2019 18:34:14 +0100</pubDate>
+      
+      <guid>https://merak.run/sifchain/</guid>
+      <description>Visit at https://www.mintscan.io/sifchain/validators/sifvaloper12vup3s2760d0ztptss908atpshqw88fu0vg72x.</description>
+    </item>
+    
+    <item>
+      <title>Umee Validator</title>
+      <link>https://merak.run/umee/</link>
+      <pubDate>Mon, 04 Mar 2019 18:34:14 +0100</pubDate>
+      
+      <guid>https://merak.run/umee/</guid>
+      <description>Visit at https://www.mintscan.io/umee/validators/umeevaloper1qlmtpavyu3ugctqmvr9kl73cgzq5ehdffynf4c.</description>
+    </item>
+    
+  </channel>
+</rss>
