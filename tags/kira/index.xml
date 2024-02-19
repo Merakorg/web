@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>kira on Merak.run</title>
+    <link>https://merak.run/tags/kira/</link>
+    <description>Recent content in kira on Merak.run</description>
+    <image>
+      <title>Merak.run</title>
+      <url>https://merak.run/merak.svg</url>
+      <link>https://merak.run/merak.svg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 07 Oct 2021 22:29:12 +0000</lastBuildDate><atom:link href="https://merak.run/tags/kira/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blockchain Validator</title>
+      <link>https://merak.run/validator/</link>
+      <pubDate>Thu, 07 Oct 2021 22:29:12 +0000</pubDate>
+      
+      <guid>https://merak.run/validator/</guid>
+      <description>Merak is a chain Validator on the following projects:
+Mainnet Network 📈 Stake Status Description of project Nym Mainnet (Genesis) Nym : Infrastructure to prevent leaks on data and metadata Passage 3D Autocompound or Stake Mainnet (Genesis) Passage 3D is an accessible and customizable 3D world for video chat, presentations, collaboration and e-commerce. Sifchain Autocompound or stake Betanet Dex Testnets Network 📈 Stake Status Description of project Redbelly No longer participating We&amp;rsquo;ve stopped collaborating on those projects to focus or efforts on others based on different reasons</description>
+    </item>
+    
+    <item>
+      <title>Kira Validator</title>
+      <link>https://merak.run/kira/</link>
+      <pubDate>Mon, 04 Mar 2019 18:34:14 +0100</pubDate>
+      
+      <guid>https://merak.run/kira/</guid>
+      <description>Visit at kira1tnurqvlck59er4deq8s0xhkzfl4n9r46wzu5qw.</description>
+    </item>
+    
+  </channel>
+</rss>

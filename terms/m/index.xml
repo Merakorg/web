@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>m on Merak.run</title>
+    <link>https://merak.run/terms/m/</link>
+    <description>Recent content in m on Merak.run</description>
+    <image>
+      <title>Merak.run</title>
+      <url>https://merak.run/merak.svg</url>
+      <link>https://merak.run/merak.svg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 13 Apr 2022 22:00:15 +0000</lastBuildDate><atom:link href="https://merak.run/terms/m/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Metamask</title>
+      <link>https://merak.run/terms/m/metamask/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://merak.run/terms/m/metamask/</guid>
+      <description>Metamask is a web wallet that can be installed in your browser or mobile and allows it to interact with Dapps, that is applications that allow to operate with cryptocurrency and its contracts.</description>
+    </item>
+    
+    <item>
+      <title>MEXC</title>
+      <link>https://merak.run/terms/m/mexc/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://merak.run/terms/m/mexc/</guid>
+      <description>MEXC is an exchange for trading.
+It was the first one to accept ALEPH ZERO tokens to be shared.</description>
+    </item>
+    
+  </channel>
+</rss>

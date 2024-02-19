@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>a on Merak.run</title>
+    <link>https://merak.run/terms/a/</link>
+    <description>Recent content in a on Merak.run</description>
+    <image>
+      <title>Merak.run</title>
+      <url>https://merak.run/merak.svg</url>
+      <link>https://merak.run/merak.svg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 13 Apr 2022 22:01:22 +0000</lastBuildDate><atom:link href="https://merak.run/terms/a/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Airdrop</title>
+      <link>https://merak.run/terms/a/airdrop/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://merak.run/terms/a/airdrop/</guid>
+      <description>An airdrop is a campaign that usually requires several social media steps like:
+Telegram group or channel follow Twitter actions such as like and retweet plus tag friends submit a form with some data. etc. In exchange, your address is added to a list that later is validated to check if all the requirements are satisfied to receive some free tokens.
+Some airdrops have as prerequisites being owner of another cryptocurrency or to perform additional steps like community activity in the chats, etc.</description>
+    </item>
+    
+    <item>
+      <title>Altcoin</title>
+      <link>https://merak.run/terms/a/altcoin/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://merak.run/terms/a/altcoin/</guid>
+      <description>Altcoin makes references to Alternative Coins, and refers to other cryptocurrencies that appeared under the umbrella of the successful Bitcoin trying to overcome some of the problems it has.</description>
+    </item>
+    
+  </channel>
+</rss>

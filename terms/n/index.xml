@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>n‎ on Merak.run</title>
+    <link>https://merak.run/terms/n/</link>
+    <description>Recent content in n‎ on Merak.run</description>
+    <image>
+      <title>Merak.run</title>
+      <url>https://merak.run/merak.svg</url>
+      <link>https://merak.run/merak.svg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 18 Aug 2022 11:57:45 +0000</lastBuildDate><atom:link href="https://merak.run/terms/n/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>network</title>
+      <link>https://merak.run/terms/n/network/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://merak.run/terms/n/network/</guid>
+      <description>A Network has a different set of nodes, validators, systems, etc, and usually tokens that are used for pay the gas fees for it.
+Some projects decide to go for one network or another based on the gas fees or features.
+There are several known networks like:
+network Ethereum Cosmos Aleph Gnosis/xDai Binance Smart Chain Polygon (Matic) And many projects based on that ecosystem</description>
+    </item>
+    
+  </channel>
+</rss>

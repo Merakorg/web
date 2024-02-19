@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>t on Merak.run</title>
+    <link>https://merak.run/terms/t/</link>
+    <description>Recent content in t on Merak.run</description>
+    <image>
+      <title>Merak.run</title>
+      <url>https://merak.run/merak.svg</url>
+      <link>https://merak.run/merak.svg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 13 Apr 2022 22:01:04 +0000</lastBuildDate><atom:link href="https://merak.run/terms/t/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Testnet</title>
+      <link>https://merak.run/terms/t/testnet/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://merak.run/terms/t/testnet/</guid>
+      <description>A testnet is a phase of a project where a set of software nodes can help on the network to validate the conceptual ideas and practical operations.
+By participating in a testnet via resources (VPS servers, etc), the participants might get some tokens or cryptocurrencies in exchange, allowing them to become early investors without actually paying for the tokens.</description>
+    </item>
+    
+    <item>
+      <title>TGE</title>
+      <link>https://merak.run/terms/t/tge/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://merak.run/terms/t/tge/</guid>
+      <description>A TGE is a Token Generation Event, moment when the token is created and contract deployed for a crypto project, usually, at that moment or shortly after it, is possible to start trading.</description>
+    </item>
+    
+    <item>
+      <title>Token</title>
+      <link>https://merak.run/terms/t/token/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://merak.run/terms/t/token/</guid>
+      <description>Token is the symbol for a cryptocurrency and it&amp;rsquo;s associated with a contract to be shown on a wallet like metamask or other wallets.</description>
+    </item>
+    
+  </channel>
+</rss>

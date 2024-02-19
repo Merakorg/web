@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>k on Merak.run</title>
+    <link>https://merak.run/terms/k/</link>
+    <description>Recent content in k on Merak.run</description>
+    <image>
+      <title>Merak.run</title>
+      <url>https://merak.run/merak.svg</url>
+      <link>https://merak.run/merak.svg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 13 Apr 2022 22:01:15 +0000</lastBuildDate><atom:link href="https://merak.run/terms/k/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Keplr</title>
+      <link>https://merak.run/terms/k/keplr/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://merak.run/terms/k/keplr/</guid>
+      <description>Keplr is a very well-established Wallet for Cosmos ecosystem which allows integration via browser and many sites like Osmosis for asset interchange.</description>
+    </item>
+    
+    <item>
+      <title>Kucoin</title>
+      <link>https://merak.run/terms/k/kucoin/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://merak.run/terms/k/kucoin/</guid>
+      <description>Kucoin is an exchange for quickly trading and converting between crypto currencies.
+Kucoin allows adding funds via wire transfer, credit card, etc and transfer the assets to other exchanges or wallets.
+It also features Polygon/MATIC purchases</description>
+    </item>
+    
+    <item>
+      <title>KYC</title>
+      <link>https://merak.run/terms/k/kyc/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://merak.run/terms/k/kyc/</guid>
+      <description>KYC is the acronym of &amp;lsquo;Know your customer&amp;rsquo;. It is a process that is used to verify the identity of a customer.
+It usually involves asking for National ID Card, passport or driving licence as well as some utility bills to prove your name and address.
+It&amp;rsquo;s used as a way to avoid duplicate accounts and to prevent fraud.</description>
+    </item>
+    
+  </channel>
+</rss>

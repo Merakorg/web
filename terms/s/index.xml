@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>s on Merak.run</title>
+    <link>https://merak.run/terms/s/</link>
+    <description>Recent content in s on Merak.run</description>
+    <image>
+      <title>Merak.run</title>
+      <url>https://merak.run/merak.svg</url>
+      <link>https://merak.run/merak.svg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 13 Apr 2022 22:00:39 +0000</lastBuildDate><atom:link href="https://merak.run/terms/s/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Saft</title>
+      <link>https://merak.run/terms/s/saft/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://merak.run/terms/s/saft/</guid>
+      <description>SAFT is the &amp;lsquo;Simple Agreement for Future Tokens&amp;rsquo;, is the document that explains the conditions for token distribution.</description>
+    </item>
+    
+    <item>
+      <title>Seed</title>
+      <link>https://merak.run/terms/s/seed/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://merak.run/terms/s/seed/</guid>
+      <description>A seed, or wallet seed is a secret phrase that should never be communicated to anyone, as it is used to restore a wallet into a new computer or application, taking absolute ownership of it and all of the assets there.</description>
+    </item>
+    
+    <item>
+      <title>Staking</title>
+      <link>https://merak.run/terms/s/staking/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://merak.run/terms/s/staking/</guid>
+      <description>Staking makes reference to the action of depositing some tokens to contribute with the number of tokens as participants into some action, for example, for mining other crypto currencies.
+By staking, you are contributing to the network and are able to earn rewards.
+Some recommendations:
+DYOR&amp;hellip; in the end it&amp;rsquo;s nothing else than your assets at risk. Avoid the first set of validators, that will only give more power and destroy decentralization.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>w on Merak.run</title>
+    <link>https://merak.run/terms/w/</link>
+    <description>Recent content in w on Merak.run</description>
+    <image>
+      <title>Merak.run</title>
+      <url>https://merak.run/merak.svg</url>
+      <link>https://merak.run/merak.svg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 13 Apr 2022 22:00:35 +0000</lastBuildDate><atom:link href="https://merak.run/terms/w/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wallet</title>
+      <link>https://merak.run/terms/w/wallet/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://merak.run/terms/w/wallet/</guid>
+      <description>A wallet is a place to hold tokens, it might be online at an exchange, at your browser like metamask or a piece of software running on your computer or mobile phone.
+A wallet has an address and it&amp;rsquo;s protected by a seed phrase that is used to restore it on another device and usually by other methods like pin or passwords to protect it from misuse.
+Each wallet is used on a network and others, allow several networks, providing different addresses on each one to receive the funds or cryptocurrencies.</description>
+    </item>
+    
+    <item>
+      <title>Wise</title>
+      <link>https://merak.run/terms/w/wise/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://merak.run/terms/w/wise/</guid>
+      <description>Wise.com is a platform to make bank transfers (wire transfers) cheap across countries, which is ideal to bring money from accounts overseas into your own country.</description>
+    </item>
+    
+  </channel>
+</rss>

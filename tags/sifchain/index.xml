@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>sifchain on Merak.run</title>
+    <link>https://merak.run/tags/sifchain/</link>
+    <description>Recent content in sifchain on Merak.run</description>
+    <image>
+      <title>Merak.run</title>
+      <url>https://merak.run/merak.svg</url>
+      <link>https://merak.run/merak.svg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 31 Dec 2022 04:00:00 +0000</lastBuildDate><atom:link href="https://merak.run/tags/sifchain/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Resuming operations on Sifchain</title>
+      <link>https://merak.run/blog/2022-12-31-sifchain-resume/</link>
+      <pubDate>Sat, 31 Dec 2022 04:00:00 +0000</pubDate>
+      
+      <guid>https://merak.run/blog/2022-12-31-sifchain-resume/</guid>
+      <description>Hi all,
+Sifchain seems to have decided to continue, so we&amp;rsquo;ll continue providing validator services on the network.
+Follow our announcement channel at https://t.me/merakannounce to kepp yourself informed
+Thanks for your support.</description>
+    </item>
+    
+    <item>
+      <title>Shutting down operations on Sifchain</title>
+      <link>https://merak.run/blog/2022-12-20-sifchain-down/</link>
+      <pubDate>Tue, 20 Dec 2022 04:00:00 +0000</pubDate>
+      
+      <guid>https://merak.run/blog/2022-12-20-sifchain-down/</guid>
+      <description>Hi all,
+Because of current Sifchain status, lack of clear roadmap and development, we&amp;rsquo;re ceasing operations on 31 December.
+This is not the only movement here as it has been preceded by other validators with similar feelings about this.
+Good luck and see you on other chains!
+Thanks for your support.</description>
+    </item>
+    
+    <item>
+      <title>How to restake?</title>
+      <link>https://merak.run/howtorestake/</link>
+      <pubDate>Sat, 27 Aug 2022 10:00:12 +0000</pubDate>
+      
+      <guid>https://merak.run/howtorestake/</guid>
+      <description>As you already know, staking allows you to get rewards by depositing your tokens on a validator.
+Merak has restake support enabled, so it&amp;rsquo;s your turn to take profit of it!
+First you need to delegate tokens to the validator in the traditional way, either via restake.app or via your preferred wallet.
+If you&amp;rsquo;re using restake you&amp;rsquo;ll see a dialog similar to this: Once it&amp;rsquo;s done, if you visit the list of delegations, it will show that Auto-compounding requires to fix permissions:</description>
+    </item>
+    
+    <item>
+      <title>Restake support</title>
+      <link>https://merak.run/restake/</link>
+      <pubDate>Tue, 26 Jul 2022 14:00:12 +0000</pubDate>
+      
+      <guid>https://merak.run/restake/</guid>
+      <description>Merak has added restake support for the validator, you can find the current active links in the validator page.
+In short, restake, via the link provided, allows you, as delegator to autocompound the earnings from staking for free.
+You can click on the icons in the networks field in the profile tab to select the validator in other networks where restaking is supported by the validator.
+How it works? Using AuthZ support in some chains, your wallet grants access to the validator to claim rewards in your name and delegate them again to the same validator, meaning that you don&amp;rsquo;t need to do that manually (and you don&amp;rsquo;t need to pay the fees for it, as those are paid by the validator itself).</description>
+    </item>
+    
+    <item>
+      <title>Blockchain Validator</title>
+      <link>https://merak.run/validator/</link>
+      <pubDate>Thu, 07 Oct 2021 22:29:12 +0000</pubDate>
+      
+      <guid>https://merak.run/validator/</guid>
+      <description>Merak is a chain Validator on the following projects:
+Mainnet Network 📈 Stake Status Description of project Nym Mainnet (Genesis) Nym : Infrastructure to prevent leaks on data and metadata Passage 3D Autocompound or Stake Mainnet (Genesis) Passage 3D is an accessible and customizable 3D world for video chat, presentations, collaboration and e-commerce. Sifchain Autocompound or stake Betanet Dex Testnets Network 📈 Stake Status Description of project Redbelly No longer participating We&amp;rsquo;ve stopped collaborating on those projects to focus or efforts on others based on different reasons</description>
+    </item>
+    
+    <item>
+      <title>Sifchain Validator</title>
+      <link>https://merak.run/sifchain/</link>
+      <pubDate>Mon, 04 Mar 2019 18:34:14 +0100</pubDate>
+      
+      <guid>https://merak.run/sifchain/</guid>
+      <description>Visit at https://explorer.stavr.tech/Sifchain/staking/sifvaloper12vup3s2760d0ztptss908atpshqw88fu0vg72x.</description>
+    </item>
+    
+  </channel>
+</rss>

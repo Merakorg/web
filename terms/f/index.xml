@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>f on Merak.run</title>
+    <link>https://merak.run/terms/f/</link>
+    <description>Recent content in f on Merak.run</description>
+    <image>
+      <title>Merak.run</title>
+      <url>https://merak.run/merak.svg</url>
+      <link>https://merak.run/merak.svg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 13 Apr 2022 22:00:11 +0000</lastBuildDate><atom:link href="https://merak.run/terms/f/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FOMO</title>
+      <link>https://merak.run/terms/f/fomo/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://merak.run/terms/f/fomo/</guid>
+      <description>F.O.M.O. : Fear Of Missing Out
+It makes reference to the fear that arises when lots of people buy one crypto currency that is gaining momentum and might drive you into buying something about to fall.</description>
+    </item>
+    
+    <item>
+      <title>FTX</title>
+      <link>https://merak.run/terms/f/ftx/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://merak.run/terms/f/ftx/</guid>
+      <description>FTX is a recently created exchange with a custom token FTX which has shown very high appreciation.
+As with other exchanges, it allows to load credit based on different cryptocurrency deposits or traditional banking approaches.</description>
+    </item>
+    
+  </channel>
+</rss>

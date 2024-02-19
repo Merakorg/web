@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>g on Merak.run</title>
+    <link>https://merak.run/terms/g/</link>
+    <description>Recent content in g on Merak.run</description>
+    <image>
+      <title>Merak.run</title>
+      <url>https://merak.run/merak.svg</url>
+      <link>https://merak.run/merak.svg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 13 Apr 2022 22:00:41 +0000</lastBuildDate><atom:link href="https://merak.run/terms/g/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gas</title>
+      <link>https://merak.run/terms/g/gas/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://merak.run/terms/g/gas/</guid>
+      <description>Each time a transaction happens on a network, there are some fees that are paid to the nodes validating the transaction, this is usually called gas, and it&amp;rsquo;s the commission that is paid.
+Each network has its own type of gas, for example on Binance Smart Chain, the gas is paid with BNB, on xDAI is paid with DAI tokens and on Ethereum with ETH.
+As transactions require gas to cover the expenses, it&amp;rsquo;s always good to keep some amount of gas on the networks we operate to pay and be able to perform them.</description>
+    </item>
+    
+    <item>
+      <title>Gate.io</title>
+      <link>https://merak.run/terms/g/gateio/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://merak.run/terms/g/gateio/</guid>
+      <description>Gate.io is an Exchange similar to others published.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>passage on Merak.run</title>
+    <link>https://merak.run/tags/passage/</link>
+    <description>Recent content in passage on Merak.run</description>
+    <image>
+      <title>Merak.run</title>
+      <url>https://merak.run/merak.svg</url>
+      <link>https://merak.run/merak.svg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 27 Aug 2022 10:00:12 +0000</lastBuildDate><atom:link href="https://merak.run/tags/passage/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to restake?</title>
+      <link>https://merak.run/howtorestake/</link>
+      <pubDate>Sat, 27 Aug 2022 10:00:12 +0000</pubDate>
+      
+      <guid>https://merak.run/howtorestake/</guid>
+      <description>As you already know, staking allows you to get rewards by depositing your tokens on a validator.
+Merak has restake support enabled, so it&amp;rsquo;s your turn to take profit of it!
+First you need to delegate tokens to the validator in the traditional way, either via restake.app or via your preferred wallet.
+If you&amp;rsquo;re using restake you&amp;rsquo;ll see a dialog similar to this: Once it&amp;rsquo;s done, if you visit the list of delegations, it will show that Auto-compounding requires to fix permissions:</description>
+    </item>
+    
+  </channel>
+</rss>

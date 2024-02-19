@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>token on Merak.run</title>
+    <link>https://merak.run/tags/token/</link>
+    <description>Recent content in token on Merak.run</description>
+    <image>
+      <title>Merak.run</title>
+      <url>https://merak.run/merak.svg</url>
+      <link>https://merak.run/merak.svg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 19 Nov 2021 00:37:20 +0000</lastBuildDate><atom:link href="https://merak.run/tags/token/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Swap places</title>
+      <link>https://merak.run/blog/swaps/</link>
+      <pubDate>Fri, 19 Nov 2021 00:37:20 +0000</pubDate>
+      
+      <guid>https://merak.run/blog/swaps/</guid>
+      <description>Sometimes we want to exchange tokens between them, and many times the easiest way is to use a Swap page.
+Those pages connect to your wallet, like Metamask, and ask for approval for interacting with your tokens.
+With those interactions will allow you to select the tokens to use as source (funds) and target from a list, or via their contract so that you can exchange them.
+Network URL BSC https://pancakeswap.</description>
+    </item>
+    
+    <item>
+      <title>Token Approval URLs</title>
+      <link>https://merak.run/blog/tokenapprovals/</link>
+      <pubDate>Thu, 11 Nov 2021 22:29:12 +0000</pubDate>
+      
+      <guid>https://merak.run/blog/tokenapprovals/</guid>
+      <description>When a wallet interacts, for example, Metamask, it might require approvals for interaction with the wallet.
+Sometimes, those contracts might be fraudulent or malicious and, you forget about them when time passes but still have access to your funds.
+You can check the current approved ones via the following sites, depending on the network you&amp;rsquo;re using on your wallet:
+Ethereum https://approved.zone/ https://tac.dappstar.io/ https://revoke.cash/ https://app.unrekt.net/ https://debank.com https://etherscan.io/tokenapprovalchecker Polygon https://polygonscan.com/tokenapprovalchecker Binance Smart Chain https://bscscan.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Arable on Merak.run</title>
+    <link>https://merak.run/tags/arable/</link>
+    <description>Recent content in Arable on Merak.run</description>
+    <image>
+      <title>Merak.run</title>
+      <url>https://merak.run/merak.svg</url>
+      <link>https://merak.run/merak.svg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 19 Aug 2022 18:34:14 +0100</lastBuildDate><atom:link href="https://merak.run/tags/arable/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arable Testnet Validator</title>
+      <link>https://merak.run/arable/</link>
+      <pubDate>Fri, 19 Aug 2022 18:34:14 +0100</pubDate>
+      
+      <guid>https://merak.run/arable/</guid>
+      <description>Visit at https://testnets.cosmosrun.info/bamboo_9000-1/staking/acrevaloper12plax5cvywtpnmdaqpkmnk3llpwhu77df7ghxx.</description>
+    </item>
+    
+  </channel>
+</rss>

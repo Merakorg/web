@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>cosmos on Merak.run</title>
+    <link>https://merak.run/tags/cosmos/</link>
+    <description>Recent content in cosmos on Merak.run</description>
+    <image>
+      <title>Merak.run</title>
+      <url>https://merak.run/merak.svg</url>
+      <link>https://merak.run/merak.svg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 06 Oct 2022 07:00:00 +0100</lastBuildDate><atom:link href="https://merak.run/tags/cosmos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cosmos ecosystem and restake</title>
+      <link>https://merak.run/presentations/cosmos-and-restake/cosmos-and-restake/</link>
+      <pubDate>Thu, 06 Oct 2022 07:00:00 +0100</pubDate>
+      
+      <guid>https://merak.run/presentations/cosmos-and-restake/cosmos-and-restake/</guid>
+      <description>Introduction In this presentation we&amp;rsquo;re going to cover some of the basics of Cosmos ecosystem and what is the work of validators and what they provide.
+What is Cosmos? Ecosystem based on consensus Uses Tendermint code for Consensus: 2/3 of voting power must agree What problems can chain have? Centralization (too few validators have &amp;gt; 66% voting power) Chain halt because of lost keys or DoS Security issues (on apps or in cosmos itself) Ecosystem Cosmos is a very rich ecosystem that can be interconected via IBC Many different projects and goals: ATOM, NYM, Sifchain, UMEE, Evmos, GenesisL1, Juno, Osmosis, etc Many projects perform airdrops to stakers in other projects What is a validator?</description>
+    </item>
+    
+  </channel>
+</rss>

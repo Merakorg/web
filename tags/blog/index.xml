@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>blog on Merak.run</title>
+    <link>https://merak.run/tags/blog/</link>
+    <description>Recent content in blog on Merak.run</description>
+    <image>
+      <title>Merak.run</title>
+      <url>https://merak.run/merak.svg</url>
+      <link>https://merak.run/merak.svg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 10 Aug 2022 12:56:16 +0000</lastBuildDate><atom:link href="https://merak.run/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Relocating a validator</title>
+      <link>https://merak.run/blog/relocating/</link>
+      <pubDate>Wed, 10 Aug 2022 12:56:16 +0000</pubDate>
+      
+      <guid>https://merak.run/blog/relocating/</guid>
+      <description>I&amp;rsquo;ve seen this question on one of the forums I participate and wanted to document it a bit, with not too much specifics to give some clues about the process and things to avid.
+Relocating a server usually it&amp;rsquo;s just a matter of installing the new one, adding the services, software etc.
+This operation can be made in an easier way if the deployment is automated.
+For example, I do use a common set of playbooks in Ansible to configure, install, etc all my servers in a similar way, also creating helper commands I can use for doing some standard operations and monitoring.</description>
+    </item>
+    
+    <item>
+      <title>Dictionary</title>
+      <link>https://merak.run/blog/dictionary/</link>
+      <pubDate>Sat, 22 May 2021 13:29:12 +0000</pubDate>
+      
+      <guid>https://merak.run/blog/dictionary/</guid>
+      <description>We&amp;rsquo;ve just started writing a dictionary of crypto terms and links to make your path into understanding cryptocurrencies a bit easier.
+Check it out at Terms</description>
+    </item>
+    
+    <item>
+      <title>Nym validator</title>
+      <link>https://merak.run/blog/nym-validator/</link>
+      <pubDate>Tue, 11 May 2021 13:29:12 +0000</pubDate>
+      
+      <guid>https://merak.run/blog/nym-validator/</guid>
+      <description>Merak is a Nym validator powering the network.
+Check the network explorer for more information.</description>
+    </item>
+    
+  </channel>
+</rss>

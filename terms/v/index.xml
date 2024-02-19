@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>v on Merak.run</title>
+    <link>https://merak.run/terms/v/</link>
+    <description>Recent content in v on Merak.run</description>
+    <image>
+      <title>Merak.run</title>
+      <url>https://merak.run/merak.svg</url>
+      <link>https://merak.run/merak.svg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 13 Apr 2022 22:00:52 +0000</lastBuildDate><atom:link href="https://merak.run/terms/v/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Validator</title>
+      <link>https://merak.run/terms/v/validator/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://merak.run/terms/v/validator/</guid>
+      <description>A Validator is a critical piece of blockchain networks, they receive and validate transactions.
+A set of validators, is a collection of validators that have consensus on the same blockchain.
+The voting power of each validator is based on the number of tokens they have in their account, either owned or delegated (staked) by others.
+As part of performing this validation, each validator is also responsible for verifying the integrity of the transactions they receive and receive a commission for each transaction, named rewards.</description>
+    </item>
+    
+    <item>
+      <title>vesting</title>
+      <link>https://merak.run/terms/v/vesting/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://merak.run/terms/v/vesting/</guid>
+      <description>Vesting is the process of releasing tokens to the public, it might have a cliff or right from the start, but usually both are combined in most projects.</description>
+    </item>
+    
+    <item>
+      <title>VPS</title>
+      <link>https://merak.run/terms/v/vps/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://merak.run/terms/v/vps/</guid>
+      <description>A VPS is a Virtual Private Server, that is a virtual machine that is running in a provider, but under total control of the user, allowing to install, upgrade and operate, making them ideal for running testnet nodes</description>
+    </item>
+    
+  </channel>
+</rss>

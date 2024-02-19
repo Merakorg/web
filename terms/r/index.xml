@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>r on Merak.run</title>
+    <link>https://merak.run/terms/r/</link>
+    <description>Recent content in r on Merak.run</description>
+    <image>
+      <title>Merak.run</title>
+      <url>https://merak.run/merak.svg</url>
+      <link>https://merak.run/merak.svg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 13 Apr 2022 22:01:01 +0000</lastBuildDate><atom:link href="https://merak.run/terms/r/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Relayer</title>
+      <link>https://merak.run/terms/r/relayer/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://merak.run/terms/r/relayer/</guid>
+      <description>A relayer is a host that works as IBC to relay messages and assets between two different blockchain networks.</description>
+    </item>
+    
+    <item>
+      <title>Revolut</title>
+      <link>https://merak.run/terms/r/revolut/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://merak.run/terms/r/revolut/</guid>
+      <description>Revolut is a service that provides credit cards, either physical or virtual with lot of advantages like reduced fees (or free) cash withdrawals abroad.
+Additionally, allows to fund the account via another credit card instantly without commission and also wire transfers, so it&amp;rsquo;s a good way to put money in and then wire it out to an exchange to quickly buy cryptocurrency.</description>
+    </item>
+    
+  </channel>
+</rss>

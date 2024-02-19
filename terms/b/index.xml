@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>b on Merak.run</title>
+    <link>https://merak.run/terms/b/</link>
+    <description>Recent content in b on Merak.run</description>
+    <image>
+      <title>Merak.run</title>
+      <url>https://merak.run/merak.svg</url>
+      <link>https://merak.run/merak.svg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 13 Apr 2022 22:01:32 +0000</lastBuildDate><atom:link href="https://merak.run/terms/b/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Binance</title>
+      <link>https://merak.run/terms/b/binance/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://merak.run/terms/b/binance/</guid>
+      <description>Binance is an exchange for quickly trading and converting between crypto currencies.
+Binance allows adding funds via wire transfer, credit card, etc and transfer the assets to other exchanges or wallets.</description>
+    </item>
+    
+    <item>
+      <title>Block Explorer</title>
+      <link>https://merak.run/terms/b/blockexplorer/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://merak.run/terms/b/blockexplorer/</guid>
+      <description>A block explorer is a web tool that allows to browse the blockchain, it&amp;rsquo;s useful to examine a transaction performed or the contracts we&amp;rsquo;re interacting to.
+A link to a specific transaction can be provided to another user for verification purposes as it shows the amount, sender and recipient wallets.
+Each chain or network has its own block explorer.</description>
+    </item>
+    
+    <item>
+      <title>Blockchain</title>
+      <link>https://merak.run/terms/b/blockchain/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://merak.run/terms/b/blockchain/</guid>
+      <description>Blockchain is the term that describes the relationship between different blocks where data is stored.
+Each block has a correspondence with prior and next blocks, allowing data to be authenticated and not tampered by a network of hosts that keep a copy of the blockchain, keeping record of all the transactions happening at each block.</description>
+    </item>
+    
+    <item>
+      <title>Bridge</title>
+      <link>https://merak.run/terms/b/bridge/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://merak.run/terms/b/bridge/</guid>
+      <description>A swap is a service that exchanges one asset for another, but sometimes, each asset are on different networks&amp;hellip; in this case, a Bridge, allows to move assets from one network to another.
+Check Swap places for some examples.</description>
+    </item>
+    
+  </channel>
+</rss>

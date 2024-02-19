@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>swap on Merak.run</title>
+    <link>https://merak.run/tags/swap/</link>
+    <description>Recent content in swap on Merak.run</description>
+    <image>
+      <title>Merak.run</title>
+      <url>https://merak.run/merak.svg</url>
+      <link>https://merak.run/merak.svg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 19 Nov 2021 00:37:20 +0000</lastBuildDate><atom:link href="https://merak.run/tags/swap/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Swap places</title>
+      <link>https://merak.run/blog/swaps/</link>
+      <pubDate>Fri, 19 Nov 2021 00:37:20 +0000</pubDate>
+      
+      <guid>https://merak.run/blog/swaps/</guid>
+      <description>Sometimes we want to exchange tokens between them, and many times the easiest way is to use a Swap page.
+Those pages connect to your wallet, like Metamask, and ask for approval for interacting with your tokens.
+With those interactions will allow you to select the tokens to use as source (funds) and target from a list, or via their contract so that you can exchange them.
+Network URL BSC https://pancakeswap.</description>
+    </item>
+    
+    <item>
+      <title>Bridge</title>
+      <link>https://merak.run/terms/b/bridge/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://merak.run/terms/b/bridge/</guid>
+      <description>A swap is a service that exchanges one asset for another, but sometimes, each asset are on different networks&amp;hellip; in this case, a Bridge, allows to move assets from one network to another.
+Check Swap places for some examples.</description>
+    </item>
+    
+  </channel>
+</rss>

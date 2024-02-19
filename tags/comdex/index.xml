@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>comdex on Merak.run</title>
+    <link>https://merak.run/tags/comdex/</link>
+    <description>Recent content in comdex on Merak.run</description>
+    <image>
+      <title>Merak.run</title>
+      <url>https://merak.run/merak.svg</url>
+      <link>https://merak.run/merak.svg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 04 Mar 2019 18:34:14 +0100</lastBuildDate><atom:link href="https://merak.run/tags/comdex/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Comdex Validator</title>
+      <link>https://merak.run/comdex/</link>
+      <pubDate>Mon, 04 Mar 2019 18:34:14 +0100</pubDate>
+      
+      <guid>https://merak.run/comdex/</guid>
+      <description>Visit at https://www.mintscan.io/comdex/validators/comdexvaloper1v5rs530z584002frflrk3fc43sf8hmjt3zkz64.</description>
+    </item>
+    
+  </channel>
+</rss>
