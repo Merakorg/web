@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>a on Merak.run</title>
+    <link>https://merak.run/terms/a/</link>
+    <description>Recent content in a on Merak.run</description>
+    <image>
+      <title>Merak.run</title>
+      <url>https://merak.run/merak.svg</url>
+      <link>https://merak.run/merak.svg</link>
+    </image>
+    <generator>Hugo -- 0.155.3</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 23 Jun 2026 07:24:37 +0200</lastBuildDate>
+    <atom:link href="https://merak.run/terms/a/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Airdrop</title>
+      <link>https://merak.run/terms/a/airdrop/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://merak.run/terms/a/airdrop/</guid>
+      <description>&lt;p&gt;An airdrop is a campaign that usually requires several social media steps like:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Telegram group or channel follow&lt;/li&gt;
+&lt;li&gt;Twitter actions such as like and retweet plus tag friends&lt;/li&gt;
+&lt;li&gt;submit a form with some data.&lt;/li&gt;
+&lt;li&gt;etc.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In exchange, your address is added to a list that later is validated to check if all the requirements are satisfied to receive some free &lt;a href=&#34;https://merak.run/terms/t/token/&#34;&gt;tokens&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Some airdrops have as prerequisites being owner of another cryptocurrency or to perform additional steps like community activity in the chats, etc.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Altcoin</title>
+      <link>https://merak.run/terms/a/altcoin/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://merak.run/terms/a/altcoin/</guid>
+      <description>&lt;p&gt;Altcoin makes references to Alternative Coins, and refers to other cryptocurrencies that appeared under the umbrella of the successful Bitcoin trying to overcome some of the problems it has.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>w on Merak.run</title>
+    <link>https://merak.run/terms/w/</link>
+    <description>Recent content in w on Merak.run</description>
+    <image>
+      <title>Merak.run</title>
+      <url>https://merak.run/merak.svg</url>
+      <link>https://merak.run/merak.svg</link>
+    </image>
+    <generator>Hugo -- 0.155.3</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 23 Jun 2026 07:24:37 +0200</lastBuildDate>
+    <atom:link href="https://merak.run/terms/w/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wallet</title>
+      <link>https://merak.run/terms/w/wallet/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://merak.run/terms/w/wallet/</guid>
+      <description>&lt;p&gt;A wallet is a place to hold tokens, it might be online at an &lt;a href=&#34;https://merak.run/tags/exchange&#34;&gt;exchange&lt;/a&gt;, at your browser like &lt;a href=&#34;https://merak.run/terms/m/metamask/&#34;&gt;metamask&lt;/a&gt; or a piece of software running on your computer or mobile phone.&lt;/p&gt;
+&lt;p&gt;A wallet has an address and it&amp;rsquo;s protected by a &lt;a href=&#34;https://merak.run/terms/s/seed/&#34;&gt;seed phrase&lt;/a&gt; that is used to restore it on another device and usually by other methods like pin or passwords to protect it from misuse.&lt;/p&gt;
+&lt;p&gt;Each wallet is used on a network and others, allow several networks, providing different addresses on each one to receive the funds or cryptocurrencies.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Wise</title>
+      <link>https://merak.run/terms/w/wise/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://merak.run/terms/w/wise/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://wise.com/invite/u/pabloi80&#34;&gt;Wise.com&lt;/a&gt; is a platform to make bank transfers (wire transfers) cheap across countries, which is ideal to bring money from accounts overseas into your own country.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

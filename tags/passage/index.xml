@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Passage on Merak.run</title>
+    <link>https://merak.run/tags/passage/</link>
+    <description>Recent content in Passage on Merak.run</description>
+    <image>
+      <title>Merak.run</title>
+      <url>https://merak.run/merak.svg</url>
+      <link>https://merak.run/merak.svg</link>
+    </image>
+    <generator>Hugo -- 0.155.3</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 23 Jun 2026 07:24:37 +0200</lastBuildDate>
+    <atom:link href="https://merak.run/tags/passage/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Shutting down operations</title>
+      <link>https://merak.run/blog/2025-07-15-ceasing-operations/</link>
+      <pubDate>Tue, 15 Jul 2025 04:00:00 +0000</pubDate>
+      <guid>https://merak.run/blog/2025-07-15-ceasing-operations/</guid>
+      <description>&lt;p&gt;Hi all,&lt;/p&gt;
+&lt;p&gt;During the last year, the cost of operation has long surpassed the rewards we were receiving from the networks we were validating on. As a result, we have made the difficult decision to cease operations on all networks.&lt;/p&gt;
+&lt;p&gt;Thank for all your support and trust in us. We have enjoyed being part of these communities and wish you all the best in the future.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How to restake?</title>
+      <link>https://merak.run/howtorestake/</link>
+      <pubDate>Sat, 27 Aug 2022 10:00:12 +0000</pubDate>
+      <guid>https://merak.run/howtorestake/</guid>
+      <description>&lt;p&gt;As you already know, &lt;a href=&#34;https://merak.run/terms/s/staking/&#34;&gt;staking&lt;/a&gt; allows you to get rewards by depositing your tokens on a validator.&lt;/p&gt;
+&lt;p&gt;Merak has &lt;a href=&#34;https://merak.run/restake/&#34;&gt;restake&lt;/a&gt; support enabled, so it&amp;rsquo;s your turn to take profit of it!&lt;/p&gt;
+&lt;p&gt;First you need to delegate tokens to the validator in the traditional way, either via &lt;a href=&#34;https://restake.app&#34;&gt;restake.app&lt;/a&gt; or via your preferred wallet.&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;re using restake you&amp;rsquo;ll see a dialog similar to this:
+&lt;img loading=&#34;lazy&#34; src=&#34;https://merak.run/howtorestake/delegate.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Once it&amp;rsquo;s done, if you visit the list of delegations, it will show that Auto-compounding requires to fix permissions:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
