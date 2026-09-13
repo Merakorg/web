@@ -1,0 +1,879 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Merak.run</title>
+    <link>https://merak.run/</link>
+    <description>Recent content on Merak.run</description>
+    <image>
+      <title>Merak.run</title>
+      <url>https://merak.run/merak.svg</url>
+      <link>https://merak.run/merak.svg</link>
+    </image>
+    <generator>Hugo -- 0.155.3</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 23 Jun 2026 07:24:37 +0200</lastBuildDate>
+    <atom:link href="https://merak.run/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Shutting down operations</title>
+      <link>https://merak.run/blog/2025-07-15-ceasing-operations/</link>
+      <pubDate>Tue, 15 Jul 2025 04:00:00 +0000</pubDate>
+      <guid>https://merak.run/blog/2025-07-15-ceasing-operations/</guid>
+      <description>&lt;p&gt;Hi all,&lt;/p&gt;
+&lt;p&gt;During the last year, the cost of operation has long surpassed the rewards we were receiving from the networks we were validating on. As a result, we have made the difficult decision to cease operations on all networks.&lt;/p&gt;
+&lt;p&gt;Thank for all your support and trust in us. We have enjoyed being part of these communities and wish you all the best in the future.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Resuming operations on Sifchain</title>
+      <link>https://merak.run/blog/2022-12-31-sifchain-resume/</link>
+      <pubDate>Sat, 31 Dec 2022 04:00:00 +0000</pubDate>
+      <guid>https://merak.run/blog/2022-12-31-sifchain-resume/</guid>
+      <description>&lt;p&gt;Hi all,&lt;/p&gt;
+&lt;p&gt;Sifchain seems to have decided to continue, so we&amp;rsquo;ll continue providing validator services on the network.&lt;/p&gt;
+&lt;p&gt;Follow our announcement channel at &lt;a href=&#34;https://t.me/merakannounce&#34;&gt;https://t.me/merakannounce&lt;/a&gt; to kepp yourself informed&lt;/p&gt;
+&lt;p&gt;Thanks for your support.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Shutting down operations on Sifchain</title>
+      <link>https://merak.run/blog/2022-12-20-sifchain-down/</link>
+      <pubDate>Tue, 20 Dec 2022 04:00:00 +0000</pubDate>
+      <guid>https://merak.run/blog/2022-12-20-sifchain-down/</guid>
+      <description>&lt;p&gt;Hi all,&lt;/p&gt;
+&lt;p&gt;Because of current Sifchain status, lack of clear roadmap and development, we&amp;rsquo;re ceasing operations on 31 December.&lt;/p&gt;
+&lt;p&gt;This is not the only movement here as it has been preceded by other validators with similar feelings about this.&lt;/p&gt;
+&lt;p&gt;Good luck and see you on other chains!&lt;/p&gt;
+&lt;p&gt;Thanks for your support.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cosmos ecosystem and restake</title>
+      <link>https://merak.run/presentations/cosmos-and-restake/cosmos-and-restake/</link>
+      <pubDate>Thu, 06 Oct 2022 07:00:00 +0100</pubDate>
+      <guid>https://merak.run/presentations/cosmos-and-restake/cosmos-and-restake/</guid>
+      <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;In this presentation we&amp;rsquo;re going to cover some of the basics of Cosmos ecosystem and what is the work of validators and what they provide.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;what-is-cosmos&#34;&gt;What is Cosmos?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Ecosystem based on consensus&lt;/li&gt;
+&lt;li&gt;Uses Tendermint code for Consensus: 2/3 of voting power must agree&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;what-problems-can-chain-have&#34;&gt;What problems can chain have?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Centralization (too few validators have &amp;gt; 66% voting power)&lt;/li&gt;
+&lt;li&gt;Chain halt because of lost keys or DoS&lt;/li&gt;
+&lt;li&gt;Security issues (on apps or in cosmos itself)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Cosmos is a very rich ecosystem that can be interconected via IBC&lt;/li&gt;
+&lt;li&gt;Many different projects and goals:
+&lt;ul&gt;
+&lt;li&gt;ATOM, NYM, Sifchain, UMEE, Evmos, GenesisL1, Juno, Osmosis, etc&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Many projects perform airdrops to stakers in other projects&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;what-is-a-validator&#34;&gt;What is a validator?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;A validator is a server that provides consensus to secure the blockchain.&lt;/li&gt;
+&lt;li&gt;It must be available 24/7 and connected to other validators&lt;/li&gt;
+&lt;li&gt;It must be secured to not compromise the chain integrity&lt;/li&gt;
+&lt;li&gt;It has a private key used to &amp;lsquo;vote&amp;rsquo; for each block&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;how-a-validator-interacts-in-cosmos-based-chains&#34;&gt;How a validator interacts in Cosmos-based chains?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Each validator,based on delegated tokens (PoS) has more power and more chances to propose blocks&lt;/li&gt;
+&lt;li&gt;Validators get a commission from each proposed block transactions
+&lt;ul&gt;
+&lt;li&gt;Stakers get rewards&lt;/li&gt;
+&lt;li&gt;Validator gets commissions&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Validator votes for proposals and for their delegates unless they vote individually&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;what-problems-can-a-validator-have&#34;&gt;What problems can a validator have?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fail to communicate with others (isolated)&lt;/li&gt;
+&lt;li&gt;Fail to sign blocks&lt;/li&gt;
+&lt;li&gt;DoS attacks (sentries)&lt;/li&gt;
+&lt;li&gt;Double signing&lt;/li&gt;
+&lt;li&gt;Disk filling with blocks&lt;/li&gt;
+&lt;li&gt;RAM filling because of bad optimized chain code&lt;/li&gt;
+&lt;li&gt;Getting out of active set&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;what-punishment&#34;&gt;What punishment?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Penalties
+&lt;ul&gt;
+&lt;li&gt;Jailing&lt;/li&gt;
+&lt;li&gt;Slashing&lt;/li&gt;
+&lt;li&gt;Tombstoning&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;choosing-the-right-validator-1&#34;&gt;Choosing the right validator (1)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Always DYOR&lt;/li&gt;
+&lt;li&gt;Avoid top 10 validators (decentralization, participation in airdrops, etc)&lt;/li&gt;
+&lt;li&gt;Check for experience in other networks&lt;/li&gt;
+&lt;li&gt;Check Validator in the explorer (missing blocks, delegations, etc)&lt;/li&gt;
+&lt;li&gt;Check for participation in voting&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;choosing-the-right-validator-2&#34;&gt;Choosing the right validator (2)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Avoid 0% validators -&amp;gt; they play badly against community&lt;/li&gt;
+&lt;li&gt;Check maximum commission change&lt;/li&gt;
+&lt;li&gt;Experience in testnets (what is tested in test, doesn&amp;rsquo;t affect you in production)&lt;/li&gt;
+&lt;li&gt;reStake support (via authz)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;authz&#34;&gt;Authz&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Cosmos chains might include support for Authz&lt;/li&gt;
+&lt;li&gt;Authz allows to grant certain privileges to other accounts&lt;/li&gt;
+&lt;li&gt;Being incorporated in major chains&lt;/li&gt;
+&lt;li&gt;Enables use of restake&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;restake&#34;&gt;restake&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Restake uses authz support to grant permissions to a validator for:
+&lt;ul&gt;
+&lt;li&gt;Claiming rewards by delegator to the validator&lt;/li&gt;
+&lt;li&gt;Delegate the rewards to the same validator&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Restake operator (the validator), will pay the fees for the claim and delegate
+&lt;ul&gt;
+&lt;li&gt;APY increases as restake executes periodically doing compound interest
+&lt;ul&gt;
+&lt;li&gt;Min # of tokens in rewards&lt;/li&gt;
+&lt;li&gt;Every &amp;lsquo;X&amp;rsquo; period of time&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;restake-function&#34;&gt;restake function&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Validator prepares a wallet that will keep the funds for the fees and will get the auth grant&lt;/li&gt;
+&lt;li&gt;Profile is updated in repository containing parameters (periodicity and min # of tokens)
+&lt;ul&gt;
+&lt;li&gt;Periodicity in the repo doesn&amp;rsquo;t need to be the real one&lt;/li&gt;
+&lt;li&gt;Funds are needed in the wallet for restake to cover the fees&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;restake-function-cont&#34;&gt;restake function (cont)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Verifies the available funds on bot account&lt;/li&gt;
+&lt;li&gt;The software executes and reviews all delegators for
+&lt;ul&gt;
+&lt;li&gt;authz permissions&lt;/li&gt;
+&lt;li&gt;minimum # of rewards&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;When verified, claim+stake is performed&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://restake.app/sifchain/sifvaloper12vup3s2760d0ztptss908atpshqw88fu0vg72x&#34;&gt;Restake profile&lt;/a&gt; (you can switch between networks)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://v1.cosmos.network/intro&#34;&gt;Cosmos Intro&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cointelegraph.com/blockchain-for-beginners/what-is-cosmos-a-beginners-guide-to-the-internet-of-blockchains&#34;&gt;Blockchain for begginers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cosmosairdrops.io/&#34;&gt;Cosmos Airdrops&lt;/a&gt; (one of many sites)&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>How to restake?</title>
+      <link>https://merak.run/howtorestake/</link>
+      <pubDate>Sat, 27 Aug 2022 10:00:12 +0000</pubDate>
+      <guid>https://merak.run/howtorestake/</guid>
+      <description>&lt;p&gt;As you already know, &lt;a href=&#34;https://merak.run/terms/s/staking/&#34;&gt;staking&lt;/a&gt; allows you to get rewards by depositing your tokens on a validator.&lt;/p&gt;
+&lt;p&gt;Merak has &lt;a href=&#34;https://merak.run/restake/&#34;&gt;restake&lt;/a&gt; support enabled, so it&amp;rsquo;s your turn to take profit of it!&lt;/p&gt;
+&lt;p&gt;First you need to delegate tokens to the validator in the traditional way, either via &lt;a href=&#34;https://restake.app&#34;&gt;restake.app&lt;/a&gt; or via your preferred wallet.&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;re using restake you&amp;rsquo;ll see a dialog similar to this:
+&lt;img loading=&#34;lazy&#34; src=&#34;https://merak.run/howtorestake/delegate.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Once it&amp;rsquo;s done, if you visit the list of delegations, it will show that Auto-compounding requires to fix permissions:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Arable Testnet Validator</title>
+      <link>https://merak.run/arable/</link>
+      <pubDate>Fri, 19 Aug 2022 18:34:14 +0100</pubDate>
+      <guid>https://merak.run/arable/</guid>
+      <description>&lt;p&gt;Visit at &lt;a href=&#34;https://testnets.cosmosrun.info/bamboo_9000-1/staking/acrevaloper12plax5cvywtpnmdaqpkmnk3llpwhu77df7ghxx&#34;&gt;https://testnets.cosmosrun.info/bamboo_9000-1/staking/acrevaloper12plax5cvywtpnmdaqpkmnk3llpwhu77df7ghxx&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Relocating a validator</title>
+      <link>https://merak.run/blog/relocating/</link>
+      <pubDate>Wed, 10 Aug 2022 12:56:16 +0000</pubDate>
+      <guid>https://merak.run/blog/relocating/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve seen this question on one of the forums I participate and wanted to document it a bit, with not too much specifics to give some clues about the process and things to avid.&lt;/p&gt;
+&lt;p&gt;Relocating a server usually it&amp;rsquo;s just a matter of installing the new one, adding the services, software etc.&lt;/p&gt;
+&lt;p&gt;This operation can be made in an easier way if the deployment is automated.&lt;/p&gt;
+&lt;p&gt;For example, I do use a common set of playbooks in Ansible to configure, install, etc all my servers in a similar way, also creating helper commands I can use for doing some standard operations and monitoring.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Restake support</title>
+      <link>https://merak.run/restake/</link>
+      <pubDate>Tue, 26 Jul 2022 14:00:12 +0000</pubDate>
+      <guid>https://merak.run/restake/</guid>
+      <description>&lt;p&gt;Merak has added &lt;a href=&#34;https://restake.app/&#34;&gt;restake&lt;/a&gt; support for the validator, you can find the current active links in the &lt;a href=&#34;https://merak.run/validator&#34;&gt;validator page&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;In short, restake, via the &lt;a href=&#34;https://restake.app/umee/umeevaloper1qlmtpavyu3ugctqmvr9kl73cgzq5ehdffynf4c&#34;&gt;link&lt;/a&gt; provided, allows you, as delegator to autocompound the earnings from staking for free.&lt;/p&gt;
+&lt;p&gt;You can click on the icons in the networks field in the profile tab to select the validator in other networks where restaking is supported by the validator.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://merak.run/restake/restake.png&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;how-it-works&#34;&gt;How it works?&lt;/h2&gt;
+&lt;p&gt;Using AuthZ support in some chains, your wallet grants access to the validator to claim rewards in your name and delegate them again to the same validator, meaning that you don&amp;rsquo;t need to do that manually (and you don&amp;rsquo;t need to pay the fees for it, as those are paid by the validator itself).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>IBC</title>
+      <link>https://merak.run/terms/i/ibc/</link>
+      <pubDate>Sun, 19 Dec 2021 09:51:19 +0000</pubDate>
+      <guid>https://merak.run/terms/i/ibc/</guid>
+      <description>&lt;p&gt;IBC stands for Inter-Blockchain Communication Protocol, which allows different blockchains to communicate between them (via &lt;a href=&#34;https://merak.run/terms/r/relayer/&#34;&gt;relayer&lt;/a&gt;) and transfer assets&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Swap places</title>
+      <link>https://merak.run/blog/swaps/</link>
+      <pubDate>Fri, 19 Nov 2021 00:37:20 +0000</pubDate>
+      <guid>https://merak.run/blog/swaps/</guid>
+      <description>&lt;p&gt;Sometimes we want to exchange tokens between them, and many times the easiest way is to use a Swap page.&lt;/p&gt;
+&lt;p&gt;Those pages connect to your wallet, like &lt;a href=&#34;https://merak.run/terms/m/metamask/&#34;&gt;Metamask&lt;/a&gt;, and ask for &lt;a href=&#34;https://merak.run/blog/tokenapprovals/&#34;&gt;approval&lt;/a&gt; for interacting with your tokens.&lt;/p&gt;
+&lt;p&gt;With those interactions will allow you to select the tokens to use as source (funds) and target from a list, or via their &lt;a href=&#34;https://merak.run/terms/c/contract/&#34;&gt;contract&lt;/a&gt; so that you can exchange them.&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Network&lt;/th&gt;
+          &lt;th&gt;URL&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;BSC&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://pancakeswap.finance/&#34;&gt;https://pancakeswap.finance/&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;xDai&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://app.honeyswap.org/&#34;&gt;https://app.honeyswap.org/&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;xDai&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://www.baoswap.com/&#34;&gt;https://www.baoswap.com/&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Polygon(Matic)&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://quickswap.exchange/&#34;&gt;https://quickswap.exchange/&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Multichain&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://app.multichain.org/#/router&#34;&gt;https://app.multichain.org/#/router&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>Token Approval URLs</title>
+      <link>https://merak.run/blog/tokenapprovals/</link>
+      <pubDate>Thu, 11 Nov 2021 22:29:12 +0000</pubDate>
+      <guid>https://merak.run/blog/tokenapprovals/</guid>
+      <description>&lt;p&gt;When a wallet interacts, for example, &lt;a href=&#34;https://merak.run/terms/m/metamask/&#34;&gt;Metamask&lt;/a&gt;, it might require approvals for interaction with the wallet.&lt;/p&gt;
+&lt;p&gt;Sometimes, those contracts might be fraudulent or malicious and, you forget about them when time passes but still have access to your funds.&lt;/p&gt;
+&lt;p&gt;You can check the current approved ones via the following sites, depending on the network you&amp;rsquo;re using on your wallet:&lt;/p&gt;
+&lt;h2 id=&#34;ethereum&#34;&gt;Ethereum&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://approved.zone/&#34;&gt;https://approved.zone/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://tac.dappstar.io/&#34;&gt;https://tac.dappstar.io/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://revoke.cash/&#34;&gt;https://revoke.cash/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://app.unrekt.net/&#34;&gt;https://app.unrekt.net/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://debank.com&#34;&gt;https://debank.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://etherscan.io/tokenapprovalchecker&#34;&gt;https://etherscan.io/tokenapprovalchecker&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;polygon&#34;&gt;Polygon&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://polygonscan.com/tokenapprovalchecker&#34;&gt;https://polygonscan.com/tokenapprovalchecker&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;binance-smart-chain&#34;&gt;Binance Smart Chain&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://bscscan.com/tokenapprovalchecker&#34;&gt;https://bscscan.com/tokenapprovalchecker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://app.unrekt.net/&#34;&gt;https://app.unrekt.net/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;fantom&#34;&gt;Fantom&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://app.unrekt.net/&#34;&gt;https://app.unrekt.net/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;huobi-eco-chain&#34;&gt;Huobi ECO Chain&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://app.unrekt.net/&#34;&gt;https://app.unrekt.net/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Blockchain Validator</title>
+      <link>https://merak.run/validator/</link>
+      <pubDate>Thu, 07 Oct 2021 22:29:12 +0000</pubDate>
+      <guid>https://merak.run/validator/</guid>
+      <description>&lt;p&gt;Merak is a chain Validator on the following projects:&lt;/p&gt;
+&lt;h2 id=&#34;mainnet&#34;&gt;Mainnet&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Network&lt;/th&gt;
+          &lt;th&gt;📈 Stake&lt;/th&gt;
+          &lt;th&gt;Status&lt;/th&gt;
+          &lt;th&gt;Description of project&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;testnets&#34;&gt;Testnets&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Network&lt;/th&gt;
+          &lt;th&gt;📈 Stake&lt;/th&gt;
+          &lt;th&gt;Status&lt;/th&gt;
+          &lt;th&gt;Description of project&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;no-longer-participating&#34;&gt;No longer participating&lt;/h2&gt;
+&lt;p&gt;We&amp;rsquo;ve stopped collaborating on those projects to focus or efforts on others based on different reasons&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Network&lt;/th&gt;
+          &lt;th&gt;Status&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Acrechain&lt;/td&gt;
+          &lt;td&gt;Testnet&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Axelar&lt;/td&gt;
+          &lt;td&gt;Mainnet&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Comdex&lt;/td&gt;
+          &lt;td&gt;Mainnet (Genesis)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Evmos&lt;/td&gt;
+          &lt;td&gt;Mainnet (Genesis)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Kira&lt;/td&gt;
+          &lt;td&gt;Testnet&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Nym&lt;/td&gt;
+          &lt;td&gt;Mainnnet (Genesis)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Passage&lt;/td&gt;
+          &lt;td&gt;Mainnet (Genesis)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Pontem&lt;/td&gt;
+          &lt;td&gt;Testnet&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Redbelly&lt;/td&gt;
+          &lt;td&gt;Testnet&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Sifchain&lt;/td&gt;
+          &lt;td&gt;Betanet&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Sifchain&lt;/td&gt;
+          &lt;td&gt;Mainnet&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Umee&lt;/td&gt;
+          &lt;td&gt;Mainnet (Genesis)&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>Dictionary</title>
+      <link>https://merak.run/blog/dictionary/</link>
+      <pubDate>Sat, 22 May 2021 13:29:12 +0000</pubDate>
+      <guid>https://merak.run/blog/dictionary/</guid>
+      <description>&lt;p&gt;We&amp;rsquo;ve just started writing a dictionary of crypto terms and links to make your path into understanding cryptocurrencies a bit easier.&lt;/p&gt;
+&lt;p&gt;Check it out at &lt;a href=&#34;https://merak.run/tags/terms&#34;&gt;Terms&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Airdrop</title>
+      <link>https://merak.run/terms/a/airdrop/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://merak.run/terms/a/airdrop/</guid>
+      <description>&lt;p&gt;An airdrop is a campaign that usually requires several social media steps like:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Telegram group or channel follow&lt;/li&gt;
+&lt;li&gt;Twitter actions such as like and retweet plus tag friends&lt;/li&gt;
+&lt;li&gt;submit a form with some data.&lt;/li&gt;
+&lt;li&gt;etc.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In exchange, your address is added to a list that later is validated to check if all the requirements are satisfied to receive some free &lt;a href=&#34;https://merak.run/terms/t/token/&#34;&gt;tokens&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Some airdrops have as prerequisites being owner of another cryptocurrency or to perform additional steps like community activity in the chats, etc.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Altcoin</title>
+      <link>https://merak.run/terms/a/altcoin/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://merak.run/terms/a/altcoin/</guid>
+      <description>&lt;p&gt;Altcoin makes references to Alternative Coins, and refers to other cryptocurrencies that appeared under the umbrella of the successful Bitcoin trying to overcome some of the problems it has.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Binance</title>
+      <link>https://merak.run/terms/b/binance/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://merak.run/terms/b/binance/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.binance.com/es/register?ref=CNW5ZMU6&#34;&gt;Binance&lt;/a&gt; is an exchange for quickly trading and converting between crypto currencies.&lt;/p&gt;
+&lt;p&gt;Binance allows adding funds via wire transfer, credit card, etc and transfer the assets to other exchanges or wallets.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Block Explorer</title>
+      <link>https://merak.run/terms/b/blockexplorer/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://merak.run/terms/b/blockexplorer/</guid>
+      <description>&lt;p&gt;A block explorer is a web tool that allows to browse the blockchain, it&amp;rsquo;s useful to examine a transaction performed or the &lt;a href=&#34;https://merak.run/terms/c/contract/&#34;&gt;contracts&lt;/a&gt; we&amp;rsquo;re interacting to.&lt;/p&gt;
+&lt;p&gt;A link to a specific transaction can be provided to another user for verification purposes as it shows the amount, sender and recipient &lt;a href=&#34;https://merak.run/terms/w/wallet/&#34;&gt;wallets&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Each chain or network has its own block explorer.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Blockchain</title>
+      <link>https://merak.run/terms/b/blockchain/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://merak.run/terms/b/blockchain/</guid>
+      <description>&lt;p&gt;Blockchain is the term that describes the relationship between different blocks where data is stored.&lt;/p&gt;
+&lt;p&gt;Each block has a correspondence with prior and next blocks, allowing data to be authenticated and not tampered by a network of hosts that keep a copy of the blockchain, keeping record of all the transactions happening at each block.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bridge</title>
+      <link>https://merak.run/terms/b/bridge/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://merak.run/terms/b/bridge/</guid>
+      <description>&lt;p&gt;A &lt;a href=&#34;https://merak.run/blog/swaps/&#34;&gt;swap&lt;/a&gt; is a service that exchanges one asset for another, but sometimes, each asset are on different &lt;a href=&#34;https://merak.run/terms/n/network/&#34;&gt;networks&lt;/a&gt;&amp;hellip; in this case, a Bridge, allows to move assets from one network to another.&lt;/p&gt;
+&lt;p&gt;Check &lt;a href=&#34;https://merak.run/blog/swaps/&#34;&gt;Swap places&lt;/a&gt; for some examples.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>cliff</title>
+      <link>https://merak.run/terms/c/cliff/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://merak.run/terms/c/cliff/</guid>
+      <description>&lt;p&gt;Cliff is the amount of time that should pass before the tokens are liberated and available.&lt;/p&gt;
+&lt;p&gt;Each project might setup different periods based on the project participants (public sale, private, etc.)&lt;/p&gt;
+&lt;p&gt;In addition, it might also include a &lt;a href=&#34;https://merak.run/terms/v/vesting/&#34;&gt;vesting&lt;/a&gt; in addition to the cliff itself.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Coinbase</title>
+      <link>https://merak.run/terms/c/coinbase/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://merak.run/terms/c/coinbase/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.coinbase.com/join/comez_n&#34;&gt;Coinbase&lt;/a&gt; is an exchange for quickly trading and converting between crypto currencies.&lt;/p&gt;
+&lt;p&gt;Coinbase features a nice dashboard and mobile application to keep track of your portfolio.&lt;/p&gt;
+&lt;p&gt;A good feature is &lt;a href=&#34;https://www.coinbase.com/join/comez_n&#34;&gt;Coinbase&lt;/a&gt; Earn, which allows to learn about some crypto currencies and get some in exchange for free!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Coinlist</title>
+      <link>https://merak.run/terms/c/coinlist/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://merak.run/terms/c/coinlist/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://coinlist.co/clt?referral_code=MKYJ32&#34;&gt;Coinlist&lt;/a&gt; is an exchange for quickly trading and participating in new token sales..&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s the place selected by many projects to perform their initial token launch and sales, so it&amp;rsquo;s important to be there.&lt;/p&gt;
+&lt;p&gt;It features a &amp;lsquo;karma&amp;rsquo; based system that allows you to be on a priority list when those sales happen, helping you getting closer to secure a slot in the sale before it depletes.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contract address</title>
+      <link>https://merak.run/terms/c/contract/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://merak.run/terms/c/contract/</guid>
+      <description>&lt;p&gt;Contract address is the direction used for indicating in a specific network information about a crypto currency, for example:&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Currency&lt;/th&gt;
+          &lt;th&gt;Network&lt;/th&gt;
+          &lt;th&gt;Contract&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;code&gt;BTCST&lt;/code&gt;&lt;/td&gt;
+          &lt;td&gt;Binance Smart Chain&lt;/td&gt;
+          &lt;td&gt;&lt;code&gt;0x78650B139471520656B9E7AA7A5E9276814A38E9&lt;/code&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;code&gt;TRX&lt;/code&gt;&lt;/td&gt;
+          &lt;td&gt;Binance Smart Chain&lt;/td&gt;
+          &lt;td&gt;&lt;code&gt;0xf230b790E05390FC8295F4d3F60332c93BEd42e2&lt;/code&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;code&gt;DAI&lt;/code&gt;&lt;/td&gt;
+          &lt;td&gt;Ethereum&lt;/td&gt;
+          &lt;td&gt;&lt;code&gt;0x6b175474e89094c44da98b954eedeac495271d0f&lt;/code&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;A given currency might have presence on different networks, so the contract on each one of them will be different.&lt;/p&gt;
+&lt;p&gt;Always pay real attention to the contract address, specially when adding it to your wallet to make sure you&amp;rsquo;re not stolen by fake contracts.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cosmos</title>
+      <link>https://merak.run/terms/c/cosmos/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://merak.run/terms/c/cosmos/</guid>
+      <description>&lt;p&gt;Cosmos is one of the ecosystems which is having a great growth and its usable for example via cosmostation or via &lt;a href=&#34;https://merak.run/terms/k/keplr/&#34;&gt;keplr&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>DeFi</title>
+      <link>https://merak.run/terms/d/defi/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://merak.run/terms/d/defi/</guid>
+      <description>&lt;p&gt;DeFi stands for Decentralized Finance, that is, moving the finances out of central places like traditional banks.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>delegate</title>
+      <link>https://merak.run/terms/d/delegate/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://merak.run/terms/d/delegate/</guid>
+      <description>&lt;p&gt;Check &lt;a href=&#34;https://merak.run/terms/s/staking/&#34;&gt;staking&lt;/a&gt; to learn more about what delegating means.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>DYOR</title>
+      <link>https://merak.run/terms/d/dyor/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://merak.run/terms/d/dyor/</guid>
+      <description>&lt;p&gt;DYOR stands for &amp;lsquo;Do your own research&amp;rsquo;, meaning that the information provided is just information and not financial advise and it&amp;rsquo;s only you performing your research and investigation, the one making the decision about the topic.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Exchange</title>
+      <link>https://merak.run/terms/e/exchange/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://merak.run/terms/e/exchange/</guid>
+      <description>&lt;p&gt;An exchange is a service that allows to buy with regular money or with cryptocurrencies to transform between them and operate, in a similar way to what a broker does for regular stock.&lt;/p&gt;
+&lt;p&gt;Check a list of &lt;a href=&#34;https://merak.run/tags/exchange&#34;&gt;exchanges&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>FOMO</title>
+      <link>https://merak.run/terms/f/fomo/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://merak.run/terms/f/fomo/</guid>
+      <description>&lt;p&gt;F.O.M.O. : Fear Of Missing Out&lt;/p&gt;
+&lt;p&gt;It makes reference to the fear that arises when lots of people buy one crypto currency that is gaining momentum and might drive you into buying something about to fall.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>FTX</title>
+      <link>https://merak.run/terms/f/ftx/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://merak.run/terms/f/ftx/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://ftx.com/#a=32922817&#34;&gt;FTX&lt;/a&gt; is a recently created exchange with a custom token FTX which has shown very high appreciation.&lt;/p&gt;
+&lt;p&gt;As with other exchanges, it allows to load credit based on different cryptocurrency deposits or traditional banking approaches.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Gas</title>
+      <link>https://merak.run/terms/g/gas/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://merak.run/terms/g/gas/</guid>
+      <description>&lt;p&gt;Each time a transaction happens on a network, there are some fees that are paid to the nodes validating the transaction, this is usually called gas, and it&amp;rsquo;s the commission that is paid.&lt;/p&gt;
+&lt;p&gt;Each network has its own type of gas, for example on Binance Smart Chain, the gas is paid with BNB, on xDAI is paid with DAI tokens and on Ethereum with ETH.&lt;/p&gt;
+&lt;p&gt;As transactions require gas to cover the expenses, it&amp;rsquo;s always good to keep some amount of gas on the networks we operate to pay and be able to perform them.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Gate.io</title>
+      <link>https://merak.run/terms/g/gateio/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://merak.run/terms/g/gateio/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.gate.io/ref/5072061&#34;&gt;Gate.io&lt;/a&gt; is an Exchange similar to others published.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>HODL</title>
+      <link>https://merak.run/terms/h/hodl/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://merak.run/terms/h/hodl/</guid>
+      <description>&lt;p&gt;HODL&lt;/p&gt;
+&lt;p&gt;The story comes out of a typo (willing to say HOLD) made on a &lt;a href=&#34;https://bitcointalk.org/index.php?topic=375643.0&#34;&gt;blogpost&lt;/a&gt;, when a user said that being a bad investor and holding the positions for longer time could bet the traders that operate in short periods.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Keplr</title>
+      <link>https://merak.run/terms/k/keplr/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://merak.run/terms/k/keplr/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://wallet.keplr.app/&#34;&gt;Keplr&lt;/a&gt; is a very well-established Wallet for Cosmos ecosystem which allows integration via browser and many sites like Osmosis for asset interchange.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Kucoin</title>
+      <link>https://merak.run/terms/k/kucoin/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://merak.run/terms/k/kucoin/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.kucoin.com/ucenter/signup?rcode=r3U13H4&#34;&gt;Kucoin&lt;/a&gt; is an exchange for quickly trading and converting between crypto currencies.&lt;/p&gt;
+&lt;p&gt;Kucoin allows adding funds via wire transfer, credit card, etc and transfer the assets to other exchanges or wallets.&lt;/p&gt;
+&lt;p&gt;It also features Polygon/MATIC purchases&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>KYC</title>
+      <link>https://merak.run/terms/k/kyc/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://merak.run/terms/k/kyc/</guid>
+      <description>&lt;p&gt;KYC is the acronym of &amp;lsquo;Know your customer&amp;rsquo;. It is a process that is used to verify the identity of a customer.&lt;/p&gt;
+&lt;p&gt;It usually involves asking for National ID Card, passport or driving licence as well as some utility bills to prove your name and address.&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s used as a way to avoid duplicate accounts and to prevent fraud.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Metamask</title>
+      <link>https://merak.run/terms/m/metamask/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://merak.run/terms/m/metamask/</guid>
+      <description>&lt;p&gt;Metamask is a web wallet that can be installed in your &lt;a href=&#34;https://metamask.io/download.html&#34;&gt;browser or mobile&lt;/a&gt; and allows it to interact with Dapps, that is applications that allow to operate with cryptocurrency and its &lt;a href=&#34;https://merak.run/terms/c/contract/&#34;&gt;contracts&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MEXC</title>
+      <link>https://merak.run/terms/m/mexc/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://merak.run/terms/m/mexc/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://m.mexc.com/auth/signup?inviteCode=1LuHV&#34;&gt;MEXC&lt;/a&gt; is an exchange for trading.&lt;/p&gt;
+&lt;p&gt;It was the first one to accept ALEPH ZERO tokens to be shared.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>network</title>
+      <link>https://merak.run/terms/n/network/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://merak.run/terms/n/network/</guid>
+      <description>&lt;p&gt;A Network has a different set of nodes, &lt;a href=&#34;https://merak.run/terms/v/validator/&#34;&gt;validators&lt;/a&gt;, systems, etc, and usually &lt;a href=&#34;https://merak.run/terms/t/token/&#34;&gt;tokens&lt;/a&gt; that are used for pay the gas fees for it.&lt;/p&gt;
+&lt;p&gt;Some projects decide to go for one network or another based on the gas fees or features.&lt;/p&gt;
+&lt;p&gt;There are several known networks like:&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;network&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Ethereum&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Cosmos&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Aleph&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Gnosis/xDai&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Binance Smart Chain&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Polygon (Matic)&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;And many projects based on that ecosystem&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Relayer</title>
+      <link>https://merak.run/terms/r/relayer/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://merak.run/terms/r/relayer/</guid>
+      <description>&lt;p&gt;A relayer is a host that works as &lt;a href=&#34;https://merak.run/terms/i/ibc/&#34;&gt;IBC&lt;/a&gt; to relay messages and assets between two different &lt;a href=&#34;https://merak.run/terms/b/blockchain/&#34;&gt;blockchain&lt;/a&gt; &lt;a href=&#34;https://merak.run/terms/n/network/&#34;&gt;networks&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Revolut</title>
+      <link>https://merak.run/terms/r/revolut/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://merak.run/terms/r/revolut/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://revolut.com/referral/pablo4px!MASO&#34;&gt;Revolut&lt;/a&gt; is a service that provides credit cards, either physical or virtual with lot of advantages like reduced fees (or free) cash withdrawals abroad.&lt;/p&gt;
+&lt;p&gt;Additionally, allows to fund the account via another credit card instantly without commission and also wire transfers, so it&amp;rsquo;s a good way to put money in and then wire it out to an &lt;a href=&#34;https://merak.run/tags/exchange&#34;&gt;exchange&lt;/a&gt; to quickly buy cryptocurrency.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Saft</title>
+      <link>https://merak.run/terms/s/saft/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://merak.run/terms/s/saft/</guid>
+      <description>&lt;p&gt;SAFT is the &amp;lsquo;Simple Agreement for Future Tokens&amp;rsquo;, is the document that explains the conditions for token distribution.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Seed</title>
+      <link>https://merak.run/terms/s/seed/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://merak.run/terms/s/seed/</guid>
+      <description>&lt;p&gt;A seed, or wallet seed is a secret phrase that should never be communicated to anyone, as it is used to restore a wallet into a new computer or application, taking absolute ownership of it and all of the assets there.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Staking</title>
+      <link>https://merak.run/terms/s/staking/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://merak.run/terms/s/staking/</guid>
+      <description>&lt;p&gt;Staking makes reference to the action of depositing some tokens to contribute with the number of tokens as participants into some action, for example, for mining other crypto currencies.&lt;/p&gt;
+&lt;p&gt;By staking, you are contributing to the network and are able to earn rewards.&lt;/p&gt;
+&lt;p&gt;Some recommendations:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://merak.run/terms/d/dyor/&#34;&gt;DYOR&lt;/a&gt;&amp;hellip; in the end it&amp;rsquo;s nothing else than your assets at risk.&lt;/li&gt;
+&lt;li&gt;Avoid the first set of validators, that will only give more power and destroy decentralization.
+&lt;ul&gt;
+&lt;li&gt;Many projects airdrops will exclude your address if you delegate via &lt;a href=&#34;https://merak.run/terms/e/exchange/&#34;&gt;exchanges&lt;/a&gt; or if you delegate to top validators participating in the projects.
+&lt;ul&gt;
+&lt;li&gt;Some networks like &lt;code&gt;Sifchain&lt;/code&gt; have impossed a maximum validator voting power to help decentralize the network and improve stability.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;By delegating to a &lt;a href=&#34;https://merak.run/terms/v/validator/&#34;&gt;validator&lt;/a&gt; you will increase its voting power and get a cut of the commissions they will get&amp;hellip;
+&lt;ul&gt;
+&lt;li&gt;Beware of the commission and the max rate change&amp;hellip; some people delegate to validators which can change from one day to the next one the commission rate in 50%.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Do not delegate to validators offering &lt;code&gt;0%&lt;/code&gt;&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; commission&amp;hellip;&lt;/li&gt;
+&lt;li&gt;Some validators like &lt;a href=&#34;https://merak.run/validator/&#34;&gt;Merak&lt;/a&gt;, provide autocompounding of rewards via reStake, automating the task for you and also paying the claim + stake fees. Check for more info at &lt;a href=&#34;https://merak.run/restake/&#34;&gt;reStake&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Wallet is usually done via a wallet like &lt;a href=&#34;https://merak.run/terms/k/keplr/&#34;&gt;Keplr&lt;/a&gt; on &lt;a href=&#34;https://merak.run/terms/c/cosmos/&#34;&gt;Cosmos&lt;/a&gt;, or via some web3 applications.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Testnet</title>
+      <link>https://merak.run/terms/t/testnet/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://merak.run/terms/t/testnet/</guid>
+      <description>&lt;p&gt;A testnet is a phase of a project where a set of software nodes can help on the network to validate the conceptual ideas and practical operations.&lt;/p&gt;
+&lt;p&gt;By participating in a testnet via resources (&lt;a href=&#34;https://merak.run/terms/v/vps/&#34;&gt;VPS&lt;/a&gt; servers, etc), the participants might get some tokens or cryptocurrencies in exchange, allowing them to become early investors without actually paying for the tokens.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>TGE</title>
+      <link>https://merak.run/terms/t/tge/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://merak.run/terms/t/tge/</guid>
+      <description>&lt;p&gt;A TGE is a Token Generation Event, moment when the token is created and contract deployed for a crypto project, usually, at that moment or shortly after it, is possible to start trading.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Token</title>
+      <link>https://merak.run/terms/t/token/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://merak.run/terms/t/token/</guid>
+      <description>&lt;p&gt;Token is the symbol for a cryptocurrency and it&amp;rsquo;s associated with a &lt;a href=&#34;https://merak.run/terms/c/contract/&#34;&gt;contract&lt;/a&gt; to be shown on a wallet like &lt;a href=&#34;https://merak.run/terms/m/metamask/&#34;&gt;metamask&lt;/a&gt; or other &lt;a href=&#34;https://merak.run/terms/w/wallet/&#34;&gt;wallets&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Validator</title>
+      <link>https://merak.run/terms/v/validator/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://merak.run/terms/v/validator/</guid>
+      <description>&lt;p&gt;A Validator is a critical piece of blockchain networks, they receive and validate transactions.&lt;/p&gt;
+&lt;p&gt;A set of validators, is a collection of validators that have consensus on the same blockchain.&lt;/p&gt;
+&lt;p&gt;The voting power of each validator is based on the number of tokens they have in their account, either owned or delegated (&lt;a href=&#34;https://merak.run/terms/s/staking/&#34;&gt;staked&lt;/a&gt;) by others.&lt;/p&gt;
+&lt;p&gt;As part of performing this validation, each validator is also responsible for verifying the integrity of the transactions they receive and receive a commission for each transaction, named rewards.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>vesting</title>
+      <link>https://merak.run/terms/v/vesting/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://merak.run/terms/v/vesting/</guid>
+      <description>&lt;p&gt;Vesting is the process of releasing tokens to the public, it might have a &lt;a href=&#34;https://merak.run/terms/c/cliff/&#34;&gt;cliff&lt;/a&gt; or right from the start, but usually both are combined in most projects.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>VPS</title>
+      <link>https://merak.run/terms/v/vps/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://merak.run/terms/v/vps/</guid>
+      <description>&lt;p&gt;A VPS is a Virtual Private Server, that is a virtual machine that is running in a provider, but under total control of the user, allowing to install, upgrade and operate, making them ideal for running &lt;a href=&#34;https://merak.run/terms/t/testnet/&#34;&gt;testnet&lt;/a&gt; nodes&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Wallet</title>
+      <link>https://merak.run/terms/w/wallet/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://merak.run/terms/w/wallet/</guid>
+      <description>&lt;p&gt;A wallet is a place to hold tokens, it might be online at an &lt;a href=&#34;https://merak.run/tags/exchange&#34;&gt;exchange&lt;/a&gt;, at your browser like &lt;a href=&#34;https://merak.run/terms/m/metamask/&#34;&gt;metamask&lt;/a&gt; or a piece of software running on your computer or mobile phone.&lt;/p&gt;
+&lt;p&gt;A wallet has an address and it&amp;rsquo;s protected by a &lt;a href=&#34;https://merak.run/terms/s/seed/&#34;&gt;seed phrase&lt;/a&gt; that is used to restore it on another device and usually by other methods like pin or passwords to protect it from misuse.&lt;/p&gt;
+&lt;p&gt;Each wallet is used on a network and others, allow several networks, providing different addresses on each one to receive the funds or cryptocurrencies.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Wise</title>
+      <link>https://merak.run/terms/w/wise/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://merak.run/terms/w/wise/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://wise.com/invite/u/pabloi80&#34;&gt;Wise.com&lt;/a&gt; is a platform to make bank transfers (wire transfers) cheap across countries, which is ideal to bring money from accounts overseas into your own country.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Axelar Testnet Validator</title>
+      <link>https://merak.run/axelar-testnet/</link>
+      <pubDate>Mon, 04 Mar 2019 18:34:14 +0100</pubDate>
+      <guid>https://merak.run/axelar-testnet/</guid>
+      <description>&lt;p&gt;Visit at &lt;a href=&#34;https://testnet.axelarscan.io/validator/axelarvaloper1k7c3pf0r0tvvskkevvuhdsus35qhlsg7yyn362&#34;&gt;https://testnet.axelarscan.io/validator/axelarvaloper1k7c3pf0r0tvvskkevvuhdsus35qhlsg7yyn362&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Axelar Validator</title>
+      <link>https://merak.run/axelar/</link>
+      <pubDate>Mon, 04 Mar 2019 18:34:14 +0100</pubDate>
+      <guid>https://merak.run/axelar/</guid>
+      <description>&lt;p&gt;Visit at &lt;a href=&#34;https://axelarscan.io/validator/axelarvaloper1rq0m2w9dcxajzstfeherrt9p3zxhqfw4ssk5cr&#34;&gt;https://axelarscan.io/validator/axelarvaloper1rq0m2w9dcxajzstfeherrt9p3zxhqfw4ssk5cr&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Comdex Validator</title>
+      <link>https://merak.run/comdex/</link>
+      <pubDate>Mon, 04 Mar 2019 18:34:14 +0100</pubDate>
+      <guid>https://merak.run/comdex/</guid>
+      <description>&lt;p&gt;Visit at &lt;a href=&#34;https://www.mintscan.io/comdex/validators/comdexvaloper1v5rs530z584002frflrk3fc43sf8hmjt3zkz64&#34;&gt;https://www.mintscan.io/comdex/validators/comdexvaloper1v5rs530z584002frflrk3fc43sf8hmjt3zkz64&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Evmos Validator</title>
+      <link>https://merak.run/evmos/</link>
+      <pubDate>Mon, 04 Mar 2019 18:34:14 +0100</pubDate>
+      <guid>https://merak.run/evmos/</guid>
+      <description>&lt;p&gt;Visit at &lt;a href=&#34;https://www.mintscan.io/evmos/validators/evmosvaloper1k35wzk4slyz2ly9wycjqjs5ed7mwjl2y7msgdz&#34;&gt;https://www.mintscan.io/evmos/validators/evmosvaloper1k35wzk4slyz2ly9wycjqjs5ed7mwjl2y7msgdz&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Kira Validator</title>
+      <link>https://merak.run/kira/</link>
+      <pubDate>Mon, 04 Mar 2019 18:34:14 +0100</pubDate>
+      <guid>https://merak.run/kira/</guid>
+      <description>&lt;p&gt;Visit at &lt;a href=&#34;kira1tnurqvlck59er4deq8s0xhkzfl4n9r46wzu5qw&#34;&gt;kira1tnurqvlck59er4deq8s0xhkzfl4n9r46wzu5qw&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Nym Validator</title>
+      <link>https://merak.run/nym/</link>
+      <pubDate>Mon, 04 Mar 2019 18:34:14 +0100</pubDate>
+      <guid>https://merak.run/nym/</guid>
+      <description>&lt;p&gt;Visit at &lt;a href=&#34;https://nym.explorers.guru/validator/nvaloper18mgnd9k6rytn6tz7pf8d2d4dawl7e9crunrsxd&#34;&gt;https://nym.explorers.guru/validator/nvaloper18mgnd9k6rytn6tz7pf8d2d4dawl7e9crunrsxd&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sifchain Validator</title>
+      <link>https://merak.run/sifchain/</link>
+      <pubDate>Mon, 04 Mar 2019 18:34:14 +0100</pubDate>
+      <guid>https://merak.run/sifchain/</guid>
+      <description>&lt;p&gt;Visit at &lt;a href=&#34;https://explorer.stavr.tech/Sifchain/staking/sifvaloper12vup3s2760d0ztptss908atpshqw88fu0vg72x&#34;&gt;https://explorer.stavr.tech/Sifchain/staking/sifvaloper12vup3s2760d0ztptss908atpshqw88fu0vg72x&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Umee Validator</title>
+      <link>https://merak.run/umee/</link>
+      <pubDate>Mon, 04 Mar 2019 18:34:14 +0100</pubDate>
+      <guid>https://merak.run/umee/</guid>
+      <description>&lt;p&gt;Visit at &lt;a href=&#34;https://www.mintscan.io/umee/validators/umeevaloper1qlmtpavyu3ugctqmvr9kl73cgzq5ehdffynf4c&#34;&gt;https://www.mintscan.io/umee/validators/umeevaloper1qlmtpavyu3ugctqmvr9kl73cgzq5ehdffynf4c&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Passage Validator</title>
+      <link>https://merak.run/passage/</link>
+      <pubDate>Fri, 10 Aug 2012 14:41:14 +0100</pubDate>
+      <guid>https://merak.run/passage/</guid>
+      <description>&lt;p&gt;Visit at &lt;a href=&#34;https://atomscan.com/passage/validators/pasgvaloper19keprzsnelg2ap38y42tde2ncql3rwvverakg4&#34;&gt;https://atomscan.com/passage/validators/pasgvaloper19keprzsnelg2ap38y42tde2ncql3rwvverakg4&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

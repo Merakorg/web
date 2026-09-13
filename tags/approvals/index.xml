@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Approvals on Merak.run</title>
+    <link>https://merak.run/tags/approvals/</link>
+    <description>Recent content in Approvals on Merak.run</description>
+    <image>
+      <title>Merak.run</title>
+      <url>https://merak.run/merak.svg</url>
+      <link>https://merak.run/merak.svg</link>
+    </image>
+    <generator>Hugo -- 0.155.3</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 23 Jun 2026 07:24:37 +0200</lastBuildDate>
+    <atom:link href="https://merak.run/tags/approvals/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Token Approval URLs</title>
+      <link>https://merak.run/blog/tokenapprovals/</link>
+      <pubDate>Thu, 11 Nov 2021 22:29:12 +0000</pubDate>
+      <guid>https://merak.run/blog/tokenapprovals/</guid>
+      <description>&lt;p&gt;When a wallet interacts, for example, &lt;a href=&#34;https://merak.run/terms/m/metamask/&#34;&gt;Metamask&lt;/a&gt;, it might require approvals for interaction with the wallet.&lt;/p&gt;
+&lt;p&gt;Sometimes, those contracts might be fraudulent or malicious and, you forget about them when time passes but still have access to your funds.&lt;/p&gt;
+&lt;p&gt;You can check the current approved ones via the following sites, depending on the network you&amp;rsquo;re using on your wallet:&lt;/p&gt;
+&lt;h2 id=&#34;ethereum&#34;&gt;Ethereum&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://approved.zone/&#34;&gt;https://approved.zone/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://tac.dappstar.io/&#34;&gt;https://tac.dappstar.io/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://revoke.cash/&#34;&gt;https://revoke.cash/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://app.unrekt.net/&#34;&gt;https://app.unrekt.net/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://debank.com&#34;&gt;https://debank.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://etherscan.io/tokenapprovalchecker&#34;&gt;https://etherscan.io/tokenapprovalchecker&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;polygon&#34;&gt;Polygon&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://polygonscan.com/tokenapprovalchecker&#34;&gt;https://polygonscan.com/tokenapprovalchecker&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;binance-smart-chain&#34;&gt;Binance Smart Chain&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://bscscan.com/tokenapprovalchecker&#34;&gt;https://bscscan.com/tokenapprovalchecker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://app.unrekt.net/&#34;&gt;https://app.unrekt.net/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;fantom&#34;&gt;Fantom&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://app.unrekt.net/&#34;&gt;https://app.unrekt.net/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;huobi-eco-chain&#34;&gt;Huobi ECO Chain&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://app.unrekt.net/&#34;&gt;https://app.unrekt.net/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
