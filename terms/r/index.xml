@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>r on Merak.run</title>
+    <link>https://merak.run/terms/r/</link>
+    <description>Recent content in r on Merak.run</description>
+    <image>
+      <title>Merak.run</title>
+      <url>https://merak.run/merak.svg</url>
+      <link>https://merak.run/merak.svg</link>
+    </image>
+    <generator>Hugo -- 0.155.3</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 23 Jun 2026 07:24:37 +0200</lastBuildDate>
+    <atom:link href="https://merak.run/terms/r/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Relayer</title>
+      <link>https://merak.run/terms/r/relayer/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://merak.run/terms/r/relayer/</guid>
+      <description>&lt;p&gt;A relayer is a host that works as &lt;a href=&#34;https://merak.run/terms/i/ibc/&#34;&gt;IBC&lt;/a&gt; to relay messages and assets between two different &lt;a href=&#34;https://merak.run/terms/b/blockchain/&#34;&gt;blockchain&lt;/a&gt; &lt;a href=&#34;https://merak.run/terms/n/network/&#34;&gt;networks&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Revolut</title>
+      <link>https://merak.run/terms/r/revolut/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://merak.run/terms/r/revolut/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://revolut.com/referral/pablo4px!MASO&#34;&gt;Revolut&lt;/a&gt; is a service that provides credit cards, either physical or virtual with lot of advantages like reduced fees (or free) cash withdrawals abroad.&lt;/p&gt;
+&lt;p&gt;Additionally, allows to fund the account via another credit card instantly without commission and also wire transfers, so it&amp;rsquo;s a good way to put money in and then wire it out to an &lt;a href=&#34;https://merak.run/tags/exchange&#34;&gt;exchange&lt;/a&gt; to quickly buy cryptocurrency.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

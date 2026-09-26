@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Nym on Merak.run</title>
+    <link>https://merak.run/tags/nym/</link>
+    <description>Recent content in Nym on Merak.run</description>
+    <image>
+      <title>Merak.run</title>
+      <url>https://merak.run/merak.svg</url>
+      <link>https://merak.run/merak.svg</link>
+    </image>
+    <generator>Hugo -- 0.155.3</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 23 Jun 2026 07:24:37 +0200</lastBuildDate>
+    <atom:link href="https://merak.run/tags/nym/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Shutting down operations</title>
+      <link>https://merak.run/blog/2025-07-15-ceasing-operations/</link>
+      <pubDate>Tue, 15 Jul 2025 04:00:00 +0000</pubDate>
+      <guid>https://merak.run/blog/2025-07-15-ceasing-operations/</guid>
+      <description>&lt;p&gt;Hi all,&lt;/p&gt;
+&lt;p&gt;During the last year, the cost of operation has long surpassed the rewards we were receiving from the networks we were validating on. As a result, we have made the difficult decision to cease operations on all networks.&lt;/p&gt;
+&lt;p&gt;Thank for all your support and trust in us. We have enjoyed being part of these communities and wish you all the best in the future.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How to restake?</title>
+      <link>https://merak.run/howtorestake/</link>
+      <pubDate>Sat, 27 Aug 2022 10:00:12 +0000</pubDate>
+      <guid>https://merak.run/howtorestake/</guid>
+      <description>&lt;p&gt;As you already know, &lt;a href=&#34;https://merak.run/terms/s/staking/&#34;&gt;staking&lt;/a&gt; allows you to get rewards by depositing your tokens on a validator.&lt;/p&gt;
+&lt;p&gt;Merak has &lt;a href=&#34;https://merak.run/restake/&#34;&gt;restake&lt;/a&gt; support enabled, so it&amp;rsquo;s your turn to take profit of it!&lt;/p&gt;
+&lt;p&gt;First you need to delegate tokens to the validator in the traditional way, either via &lt;a href=&#34;https://restake.app&#34;&gt;restake.app&lt;/a&gt; or via your preferred wallet.&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;re using restake you&amp;rsquo;ll see a dialog similar to this:
+&lt;img loading=&#34;lazy&#34; src=&#34;https://merak.run/howtorestake/delegate.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Once it&amp;rsquo;s done, if you visit the list of delegations, it will show that Auto-compounding requires to fix permissions:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Restake support</title>
+      <link>https://merak.run/restake/</link>
+      <pubDate>Tue, 26 Jul 2022 14:00:12 +0000</pubDate>
+      <guid>https://merak.run/restake/</guid>
+      <description>&lt;p&gt;Merak has added &lt;a href=&#34;https://restake.app/&#34;&gt;restake&lt;/a&gt; support for the validator, you can find the current active links in the &lt;a href=&#34;https://merak.run/validator&#34;&gt;validator page&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;In short, restake, via the &lt;a href=&#34;https://restake.app/umee/umeevaloper1qlmtpavyu3ugctqmvr9kl73cgzq5ehdffynf4c&#34;&gt;link&lt;/a&gt; provided, allows you, as delegator to autocompound the earnings from staking for free.&lt;/p&gt;
+&lt;p&gt;You can click on the icons in the networks field in the profile tab to select the validator in other networks where restaking is supported by the validator.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://merak.run/restake/restake.png&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;how-it-works&#34;&gt;How it works?&lt;/h2&gt;
+&lt;p&gt;Using AuthZ support in some chains, your wallet grants access to the validator to claim rewards in your name and delegate them again to the same validator, meaning that you don&amp;rsquo;t need to do that manually (and you don&amp;rsquo;t need to pay the fees for it, as those are paid by the validator itself).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Blockchain Validator</title>
+      <link>https://merak.run/validator/</link>
+      <pubDate>Thu, 07 Oct 2021 22:29:12 +0000</pubDate>
+      <guid>https://merak.run/validator/</guid>
+      <description>&lt;p&gt;Merak is a chain Validator on the following projects:&lt;/p&gt;
+&lt;h2 id=&#34;mainnet&#34;&gt;Mainnet&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Network&lt;/th&gt;
+          &lt;th&gt;📈 Stake&lt;/th&gt;
+          &lt;th&gt;Status&lt;/th&gt;
+          &lt;th&gt;Description of project&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;testnets&#34;&gt;Testnets&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Network&lt;/th&gt;
+          &lt;th&gt;📈 Stake&lt;/th&gt;
+          &lt;th&gt;Status&lt;/th&gt;
+          &lt;th&gt;Description of project&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;no-longer-participating&#34;&gt;No longer participating&lt;/h2&gt;
+&lt;p&gt;We&amp;rsquo;ve stopped collaborating on those projects to focus or efforts on others based on different reasons&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Network&lt;/th&gt;
+          &lt;th&gt;Status&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Acrechain&lt;/td&gt;
+          &lt;td&gt;Testnet&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Axelar&lt;/td&gt;
+          &lt;td&gt;Mainnet&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Comdex&lt;/td&gt;
+          &lt;td&gt;Mainnet (Genesis)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Evmos&lt;/td&gt;
+          &lt;td&gt;Mainnet (Genesis)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Kira&lt;/td&gt;
+          &lt;td&gt;Testnet&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Nym&lt;/td&gt;
+          &lt;td&gt;Mainnnet (Genesis)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Passage&lt;/td&gt;
+          &lt;td&gt;Mainnet (Genesis)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Pontem&lt;/td&gt;
+          &lt;td&gt;Testnet&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Redbelly&lt;/td&gt;
+          &lt;td&gt;Testnet&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Sifchain&lt;/td&gt;
+          &lt;td&gt;Betanet&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Sifchain&lt;/td&gt;
+          &lt;td&gt;Mainnet&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Umee&lt;/td&gt;
+          &lt;td&gt;Mainnet (Genesis)&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>Nym Validator</title>
+      <link>https://merak.run/nym/</link>
+      <pubDate>Mon, 04 Mar 2019 18:34:14 +0100</pubDate>
+      <guid>https://merak.run/nym/</guid>
+      <description>&lt;p&gt;Visit at &lt;a href=&#34;https://nym.explorers.guru/validator/nvaloper18mgnd9k6rytn6tz7pf8d2d4dawl7e9crunrsxd&#34;&gt;https://nym.explorers.guru/validator/nvaloper18mgnd9k6rytn6tz7pf8d2d4dawl7e9crunrsxd&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

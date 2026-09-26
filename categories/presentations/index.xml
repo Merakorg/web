@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Presentations on Merak.run</title>
+    <link>https://merak.run/categories/presentations/</link>
+    <description>Recent content in Presentations on Merak.run</description>
+    <image>
+      <title>Merak.run</title>
+      <url>https://merak.run/merak.svg</url>
+      <link>https://merak.run/merak.svg</link>
+    </image>
+    <generator>Hugo -- 0.155.3</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 23 Jun 2026 07:24:37 +0200</lastBuildDate>
+    <atom:link href="https://merak.run/categories/presentations/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cosmos ecosystem and restake</title>
+      <link>https://merak.run/presentations/cosmos-and-restake/cosmos-and-restake/</link>
+      <pubDate>Thu, 06 Oct 2022 07:00:00 +0100</pubDate>
+      <guid>https://merak.run/presentations/cosmos-and-restake/cosmos-and-restake/</guid>
+      <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;In this presentation we&amp;rsquo;re going to cover some of the basics of Cosmos ecosystem and what is the work of validators and what they provide.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;what-is-cosmos&#34;&gt;What is Cosmos?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Ecosystem based on consensus&lt;/li&gt;
+&lt;li&gt;Uses Tendermint code for Consensus: 2/3 of voting power must agree&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;what-problems-can-chain-have&#34;&gt;What problems can chain have?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Centralization (too few validators have &amp;gt; 66% voting power)&lt;/li&gt;
+&lt;li&gt;Chain halt because of lost keys or DoS&lt;/li&gt;
+&lt;li&gt;Security issues (on apps or in cosmos itself)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Cosmos is a very rich ecosystem that can be interconected via IBC&lt;/li&gt;
+&lt;li&gt;Many different projects and goals:
+&lt;ul&gt;
+&lt;li&gt;ATOM, NYM, Sifchain, UMEE, Evmos, GenesisL1, Juno, Osmosis, etc&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Many projects perform airdrops to stakers in other projects&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;what-is-a-validator&#34;&gt;What is a validator?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;A validator is a server that provides consensus to secure the blockchain.&lt;/li&gt;
+&lt;li&gt;It must be available 24/7 and connected to other validators&lt;/li&gt;
+&lt;li&gt;It must be secured to not compromise the chain integrity&lt;/li&gt;
+&lt;li&gt;It has a private key used to &amp;lsquo;vote&amp;rsquo; for each block&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;how-a-validator-interacts-in-cosmos-based-chains&#34;&gt;How a validator interacts in Cosmos-based chains?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Each validator,based on delegated tokens (PoS) has more power and more chances to propose blocks&lt;/li&gt;
+&lt;li&gt;Validators get a commission from each proposed block transactions
+&lt;ul&gt;
+&lt;li&gt;Stakers get rewards&lt;/li&gt;
+&lt;li&gt;Validator gets commissions&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Validator votes for proposals and for their delegates unless they vote individually&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;what-problems-can-a-validator-have&#34;&gt;What problems can a validator have?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fail to communicate with others (isolated)&lt;/li&gt;
+&lt;li&gt;Fail to sign blocks&lt;/li&gt;
+&lt;li&gt;DoS attacks (sentries)&lt;/li&gt;
+&lt;li&gt;Double signing&lt;/li&gt;
+&lt;li&gt;Disk filling with blocks&lt;/li&gt;
+&lt;li&gt;RAM filling because of bad optimized chain code&lt;/li&gt;
+&lt;li&gt;Getting out of active set&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;what-punishment&#34;&gt;What punishment?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Penalties
+&lt;ul&gt;
+&lt;li&gt;Jailing&lt;/li&gt;
+&lt;li&gt;Slashing&lt;/li&gt;
+&lt;li&gt;Tombstoning&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;choosing-the-right-validator-1&#34;&gt;Choosing the right validator (1)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Always DYOR&lt;/li&gt;
+&lt;li&gt;Avoid top 10 validators (decentralization, participation in airdrops, etc)&lt;/li&gt;
+&lt;li&gt;Check for experience in other networks&lt;/li&gt;
+&lt;li&gt;Check Validator in the explorer (missing blocks, delegations, etc)&lt;/li&gt;
+&lt;li&gt;Check for participation in voting&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;choosing-the-right-validator-2&#34;&gt;Choosing the right validator (2)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Avoid 0% validators -&amp;gt; they play badly against community&lt;/li&gt;
+&lt;li&gt;Check maximum commission change&lt;/li&gt;
+&lt;li&gt;Experience in testnets (what is tested in test, doesn&amp;rsquo;t affect you in production)&lt;/li&gt;
+&lt;li&gt;reStake support (via authz)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;authz&#34;&gt;Authz&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Cosmos chains might include support for Authz&lt;/li&gt;
+&lt;li&gt;Authz allows to grant certain privileges to other accounts&lt;/li&gt;
+&lt;li&gt;Being incorporated in major chains&lt;/li&gt;
+&lt;li&gt;Enables use of restake&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;restake&#34;&gt;restake&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Restake uses authz support to grant permissions to a validator for:
+&lt;ul&gt;
+&lt;li&gt;Claiming rewards by delegator to the validator&lt;/li&gt;
+&lt;li&gt;Delegate the rewards to the same validator&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Restake operator (the validator), will pay the fees for the claim and delegate
+&lt;ul&gt;
+&lt;li&gt;APY increases as restake executes periodically doing compound interest
+&lt;ul&gt;
+&lt;li&gt;Min # of tokens in rewards&lt;/li&gt;
+&lt;li&gt;Every &amp;lsquo;X&amp;rsquo; period of time&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;restake-function&#34;&gt;restake function&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Validator prepares a wallet that will keep the funds for the fees and will get the auth grant&lt;/li&gt;
+&lt;li&gt;Profile is updated in repository containing parameters (periodicity and min # of tokens)
+&lt;ul&gt;
+&lt;li&gt;Periodicity in the repo doesn&amp;rsquo;t need to be the real one&lt;/li&gt;
+&lt;li&gt;Funds are needed in the wallet for restake to cover the fees&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;restake-function-cont&#34;&gt;restake function (cont)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Verifies the available funds on bot account&lt;/li&gt;
+&lt;li&gt;The software executes and reviews all delegators for
+&lt;ul&gt;
+&lt;li&gt;authz permissions&lt;/li&gt;
+&lt;li&gt;minimum # of rewards&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;When verified, claim+stake is performed&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://restake.app/sifchain/sifvaloper12vup3s2760d0ztptss908atpshqw88fu0vg72x&#34;&gt;Restake profile&lt;/a&gt; (you can switch between networks)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://v1.cosmos.network/intro&#34;&gt;Cosmos Intro&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cointelegraph.com/blockchain-for-beginners/what-is-cosmos-a-beginners-guide-to-the-internet-of-blockchains&#34;&gt;Blockchain for begginers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cosmosairdrops.io/&#34;&gt;Cosmos Airdrops&lt;/a&gt; (one of many sites)&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
