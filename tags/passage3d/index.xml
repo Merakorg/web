@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Passage3D on Merak.run</title>
+    <link>https://merak.run/tags/passage3d/</link>
+    <description>Recent content in Passage3D on Merak.run</description>
+    <image>
+      <title>Merak.run</title>
+      <url>https://merak.run/merak.svg</url>
+      <link>https://merak.run/merak.svg</link>
+    </image>
+    <generator>Hugo -- 0.155.3</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 23 Jun 2026 07:24:37 +0200</lastBuildDate>
+    <atom:link href="https://merak.run/tags/passage3d/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Passage Validator</title>
+      <link>https://merak.run/passage/</link>
+      <pubDate>Fri, 10 Aug 2012 14:41:14 +0100</pubDate>
+      <guid>https://merak.run/passage/</guid>
+      <description>&lt;p&gt;Visit at &lt;a href=&#34;https://atomscan.com/passage/validators/pasgvaloper19keprzsnelg2ap38y42tde2ncql3rwvverakg4&#34;&gt;https://atomscan.com/passage/validators/pasgvaloper19keprzsnelg2ap38y42tde2ncql3rwvverakg4&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
