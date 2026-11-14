@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>d on Merak.run</title>
+    <link>https://merak.run/terms/d/</link>
+    <description>Recent content in d on Merak.run</description>
+    <image>
+      <title>Merak.run</title>
+      <url>https://merak.run/merak.svg</url>
+      <link>https://merak.run/merak.svg</link>
+    </image>
+    <generator>Hugo -- 0.155.3</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 23 Jun 2026 07:24:37 +0200</lastBuildDate>
+    <atom:link href="https://merak.run/terms/d/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DeFi</title>
+      <link>https://merak.run/terms/d/defi/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://merak.run/terms/d/defi/</guid>
+      <description>&lt;p&gt;DeFi stands for Decentralized Finance, that is, moving the finances out of central places like traditional banks.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>delegate</title>
+      <link>https://merak.run/terms/d/delegate/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://merak.run/terms/d/delegate/</guid>
+      <description>&lt;p&gt;Check &lt;a href=&#34;https://merak.run/terms/s/staking/&#34;&gt;staking&lt;/a&gt; to learn more about what delegating means.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>DYOR</title>
+      <link>https://merak.run/terms/d/dyor/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://merak.run/terms/d/dyor/</guid>
+      <description>&lt;p&gt;DYOR stands for &amp;lsquo;Do your own research&amp;rsquo;, meaning that the information provided is just information and not financial advise and it&amp;rsquo;s only you performing your research and investigation, the one making the decision about the topic.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
