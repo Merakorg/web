@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>c on Merak.run</title>
+    <link>https://merak.run/terms/c/</link>
+    <description>Recent content in c on Merak.run</description>
+    <image>
+      <title>Merak.run</title>
+      <url>https://merak.run/merak.svg</url>
+      <link>https://merak.run/merak.svg</link>
+    </image>
+    <generator>Hugo -- 0.155.3</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 23 Jun 2026 07:24:37 +0200</lastBuildDate>
+    <atom:link href="https://merak.run/terms/c/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>cliff</title>
+      <link>https://merak.run/terms/c/cliff/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://merak.run/terms/c/cliff/</guid>
+      <description>&lt;p&gt;Cliff is the amount of time that should pass before the tokens are liberated and available.&lt;/p&gt;
+&lt;p&gt;Each project might setup different periods based on the project participants (public sale, private, etc.)&lt;/p&gt;
+&lt;p&gt;In addition, it might also include a &lt;a href=&#34;https://merak.run/terms/v/vesting/&#34;&gt;vesting&lt;/a&gt; in addition to the cliff itself.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Coinbase</title>
+      <link>https://merak.run/terms/c/coinbase/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://merak.run/terms/c/coinbase/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.coinbase.com/join/comez_n&#34;&gt;Coinbase&lt;/a&gt; is an exchange for quickly trading and converting between crypto currencies.&lt;/p&gt;
+&lt;p&gt;Coinbase features a nice dashboard and mobile application to keep track of your portfolio.&lt;/p&gt;
+&lt;p&gt;A good feature is &lt;a href=&#34;https://www.coinbase.com/join/comez_n&#34;&gt;Coinbase&lt;/a&gt; Earn, which allows to learn about some crypto currencies and get some in exchange for free!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Coinlist</title>
+      <link>https://merak.run/terms/c/coinlist/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://merak.run/terms/c/coinlist/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://coinlist.co/clt?referral_code=MKYJ32&#34;&gt;Coinlist&lt;/a&gt; is an exchange for quickly trading and participating in new token sales..&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s the place selected by many projects to perform their initial token launch and sales, so it&amp;rsquo;s important to be there.&lt;/p&gt;
+&lt;p&gt;It features a &amp;lsquo;karma&amp;rsquo; based system that allows you to be on a priority list when those sales happen, helping you getting closer to secure a slot in the sale before it depletes.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contract address</title>
+      <link>https://merak.run/terms/c/contract/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://merak.run/terms/c/contract/</guid>
+      <description>&lt;p&gt;Contract address is the direction used for indicating in a specific network information about a crypto currency, for example:&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Currency&lt;/th&gt;
+          &lt;th&gt;Network&lt;/th&gt;
+          &lt;th&gt;Contract&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;code&gt;BTCST&lt;/code&gt;&lt;/td&gt;
+          &lt;td&gt;Binance Smart Chain&lt;/td&gt;
+          &lt;td&gt;&lt;code&gt;0x78650B139471520656B9E7AA7A5E9276814A38E9&lt;/code&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;code&gt;TRX&lt;/code&gt;&lt;/td&gt;
+          &lt;td&gt;Binance Smart Chain&lt;/td&gt;
+          &lt;td&gt;&lt;code&gt;0xf230b790E05390FC8295F4d3F60332c93BEd42e2&lt;/code&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;code&gt;DAI&lt;/code&gt;&lt;/td&gt;
+          &lt;td&gt;Ethereum&lt;/td&gt;
+          &lt;td&gt;&lt;code&gt;0x6b175474e89094c44da98b954eedeac495271d0f&lt;/code&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;A given currency might have presence on different networks, so the contract on each one of them will be different.&lt;/p&gt;
+&lt;p&gt;Always pay real attention to the contract address, specially when adding it to your wallet to make sure you&amp;rsquo;re not stolen by fake contracts.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cosmos</title>
+      <link>https://merak.run/terms/c/cosmos/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://merak.run/terms/c/cosmos/</guid>
+      <description>&lt;p&gt;Cosmos is one of the ecosystems which is having a great growth and its usable for example via cosmostation or via &lt;a href=&#34;https://merak.run/terms/k/keplr/&#34;&gt;keplr&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
