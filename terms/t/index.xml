@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>t on Merak.run</title>
+    <link>https://merak.run/terms/t/</link>
+    <description>Recent content in t on Merak.run</description>
+    <image>
+      <title>Merak.run</title>
+      <url>https://merak.run/merak.svg</url>
+      <link>https://merak.run/merak.svg</link>
+    </image>
+    <generator>Hugo -- 0.155.3</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 23 Jun 2026 07:24:37 +0200</lastBuildDate>
+    <atom:link href="https://merak.run/terms/t/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Testnet</title>
+      <link>https://merak.run/terms/t/testnet/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://merak.run/terms/t/testnet/</guid>
+      <description>&lt;p&gt;A testnet is a phase of a project where a set of software nodes can help on the network to validate the conceptual ideas and practical operations.&lt;/p&gt;
+&lt;p&gt;By participating in a testnet via resources (&lt;a href=&#34;https://merak.run/terms/v/vps/&#34;&gt;VPS&lt;/a&gt; servers, etc), the participants might get some tokens or cryptocurrencies in exchange, allowing them to become early investors without actually paying for the tokens.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>TGE</title>
+      <link>https://merak.run/terms/t/tge/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://merak.run/terms/t/tge/</guid>
+      <description>&lt;p&gt;A TGE is a Token Generation Event, moment when the token is created and contract deployed for a crypto project, usually, at that moment or shortly after it, is possible to start trading.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Token</title>
+      <link>https://merak.run/terms/t/token/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://merak.run/terms/t/token/</guid>
+      <description>&lt;p&gt;Token is the symbol for a cryptocurrency and it&amp;rsquo;s associated with a &lt;a href=&#34;https://merak.run/terms/c/contract/&#34;&gt;contract&lt;/a&gt; to be shown on a wallet like &lt;a href=&#34;https://merak.run/terms/m/metamask/&#34;&gt;metamask&lt;/a&gt; or other &lt;a href=&#34;https://merak.run/terms/w/wallet/&#34;&gt;wallets&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
